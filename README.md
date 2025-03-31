@@ -69,11 +69,105 @@ These topics and dates are tentative and subject to change based on class progre
 | 10   | 20-Oct - 26-Oct      | Field methods: Pumping test analysis <br> Field methods: Electrical resistivity imaging     | 5              | HW10    |
 | 11   | 27-Oct - 02-Nov      | Hydrogeologic site characterization <br> Midterm exam                                       | 12             | HW11 <br>Midterm exam|
 | 12   | 03-Nov - 09-Nov      | Groundwater modeling: Introduction;<br>Groundwater modeling: Model setup                    | 13             | HW12  |       
-| 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model calibration;<br>Groundwater modeling: Model application         | 13 |                 |
-| 14   | 17-Nov - 23-Nov      | Hydrogeology of Florida                                                                     |    |                 |
-| 15   | 24-Nov - 25-Nov      | Thanksgiving Observed (no classes)                                                          | 10 |                   |
-| 15   | 26-Nov - 30-Nov      | Mass transport of solutes                                                                   |    |                   |
+| 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model calibration;<br>Groundwater modeling: Model application         | 13             | HW13 |
+| 14   | 17-Nov - 23-Nov      | Hydrogeology of Florida                                                                     | Handouts       | HW14  |
+| 15   | 24-Nov - 25-Nov      | Thanksgiving Observed (no classes)                                                          |                |       |
+| 15   | 26-Nov - 30-Nov      | Mass transport of solutes                                                                   | 10             | HW15  |
 | 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |    | Project Report |
 
+## Assessment and Grading
 
+### Grading scale
+
+The instructor may elect to employ a curve that favors the students.
+
+| Grade | Range | Grade| Range | Grade | Range |
+| --- | --- | --- | --- | --- | --- |
+| A | 94% or above | B- | 80% to 82.99% | D+ | 67% to 69.99% |
+| A- | 90% to 93.99% | C+ | 77% to 79.99% | D | 60% to 66.99% |
+| B+ | 87% to 89.99% | C | 73% to 76.99% | F | Below 60% |
+| B | 83% to 86.99% | C- | 70% to 72.99% |
                   
+
+## Assessment and Grading
+
+### Grading Scale
+
+> The instructor may elect to employ a curve that favors the students.
+
+| Grade | Range         | Grade | Range         | Grade | Range         |
+|-------|---------------|-------|---------------|-------|---------------|
+| A     | 93% or above  | B-    | 80% – 82.99%  | D+    | 67% – 69.99%  |
+| A-    | 90% – 92.99%  | C+    | 77% – 79.99%  | D     | 63% – 66.99%  |
+| B+    | 87% – 89.99%  | C     | 73% – 76.99%  | D-    | 60% – 62.99%  |
+| B     | 83% – 86.99%  | C-    | 70% – 72.99%  | F     | Below 60%     |
+
+### Assessment Plan (100%)
+
+- Participation – 10%  
+- Homework – 20%  
+- Midterm – 30%  
+- Project – 30%  
+- Paper Review – 10%
+
+### General Notes
+
+- Grades Due from Faculty by Noon - Fall 2025 (Full Term)	Tuesday, 16 December 2025
+- If you are falling behind, consult the academic calendar for the last day to drop.
+- Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
+
+## Participation
+
+For participation assessment, students are expected to:
+- Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/gwh/hw/participation)
+- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
+
+These form the majority of your participation grade.  
+
+## Homework
+A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS. Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
+
+### Late Homework Policy
+- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
+- Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
+- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
+- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
+
+## Exam
+- A comprehensive midterm exam will be conducted online.
+- You will have 24 hours to complete the exam, which will include approximately 10 multiple-choice questions testing qualitative understanding, and about five problems focused on problem-solving.  
+- Study guide: If you can solve the exercises, practice problems, and homework assignments, you will be well-prepared for the exam.  
+- A makeup exam may be provided for students with an [excused absence](#excused-absence-policy).
+
+## Execused Absence Policy
+- Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
+- Absence will be execused after the verification of the submitted document
+- Any attempt to falsify documents will be taken very seriously in accordance with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
+
+## Policy for Academic Integrity Violations 
+- Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
+- Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
+
+## Financial Aid Statement
+
+As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. The confirmation of attendance is required for all students, not only those receiving financial aid.
+
+## Generative AI Use
+
+Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams unless indicated by the text "Generative AI Permitted". Students must cite the used generative AI tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
+
+## Core Syllabus Policies 
+
+FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these [online](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
+
+## FGCU Writing Lab
+
+We're here to help students, faculty, and staff become more confident writers. To this end, we offer a variety of free services including one-on-one sessions with expert writing consultants, on-demand presentations on a range of writing-related topics and a broad selection of handouts developed specifically for the needs of the FGCU community. [https://www.fgcu.edu/academics/caa/writinglab/](https://www.fgcu.edu/academics/caa/writinglab/)
+
+## High Performance Computing (HPC) Resources
+
+HiPerGator AI: Access the fastest artificial intelligence supercomputer in higher education. FGCU is partnered with the University of Florida to provide faculty and students with unparalleled computing power. The possibilities are endless when applied to instruction, research, and course development. Please contact the University Help Desk to learn more.
+
+## Syllabus Change Policy 
+
+Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
