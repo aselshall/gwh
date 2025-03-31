@@ -52,7 +52,6 @@ By the end of this course, students will be able to:
 
 ## Course Schedule
 > These topics and dates are tentative and subject to change based on class progress.
-  
 > Due dates are tentative; actual deadlines will be posted on canvas. 
 
 | Week | Date (From - To)     | Topic                                                                                             | Book Chapters  | Due Date |
