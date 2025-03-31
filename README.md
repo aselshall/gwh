@@ -1,3 +1,32 @@
+## EGN 4930/5932C ST: Groundwater Hydrology
+Florida Gulf Coast University  
+U.A. Whitaker College of Engineering  
+Fall 2025  
+Last updated:Mar 31, 2025
+
+Recorded Lessons:
+
+## Course Information
+Course: EGN 4930/5932C ST: Groundwater Hydrology
+CRN: EGN 4930[87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=87245)
+CRN: EGN 5932C[86679](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=86679)
+Credit hours: 3  
+Class: Online - Asynchronous   
+Midterm Exam: In-Person (Exam date and location will be announced)
+Exam: Final Presentation and Report
+
+## Instructor
+Ahmed S. Elshall, PhD  
+Assistant Professor  
+Department of Bioengineering, Civil Engineering, and Environmental Engineering  
+U.A. Whitaker College of Engineering Joint Appointment with The Water School  
+Office: Holmes Hall 423 (inside 416)  
+Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
+Office Hours : Tuesday 9:00 am - 12:00 pm and by appointment  
+
+## Course Description
+
+This course introduces the fundamental principles of groundwater flow and solute transport in aquifers, emphasizing interactions between groundwater and the environment. Students will gain hands-on experience with basic groundwater modeling using the industry-standard tool MODFLOW, providing a foundation for further study and careers in water resources management.
 
 ## Introduction
 
@@ -7,21 +36,44 @@ Groundwater in Florida is especially critical, serving as the primary source of 
 
 This course serves as an introduction to groundwater hydrology, covering elements of the hydrologic cycle and various topics related to groundwater availability. Key topics include aquifer properties, principles of groundwater flow and solute transport, and groundwater pumping. The course also briefly introduces soil moisture and groundwater recharge, surface water-groundwater interaction, and natural environments of groundwater occurrence. Applied groundwater modeling is included. This course is valuable not only for students pursuing a career in groundwater hydrology, but also for those interested in environmental and water resources management. It is a prerequisite for courses in contaminant hydrogeology, groundwater modeling, environmental geophysics, and integrated water resources management.
 
----
-
 ## Course Learning Objectives
 
 By the end of this course, students will be able to:
 
-- Apply the principles of the water cycle to calculate the mass balance of groundwater aquifers and surface water bodies.
-- Analyze laboratory and field data to determine properties of groundwater aquifers, including hydraulic conductivity.
-- Describe the directions and magnitudes of groundwater flow using fundamental principles of groundwater flow.
-- Understand the interactions among hydrological, geological, and transport processes affecting groundwater systems.
-- Develop and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies.
-
----
+- Apply the principles of the water cycle to calculate the mass balance of groundwater aquifers and surface water bodies
+- Analyze laboratory and field data to determine properties of groundwater aquifers, including hydraulic conductivity
+- Describe the directions and magnitudes of groundwater flow using fundamental principles of groundwater flow
+- Understand the interactions among hydrological, geological, and transport processes affecting groundwater systems
+- Develop and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
 
 ## Recommended Textbook
+- Fetter, C.W. and Kreamer, D. (2022), Applied Hydrogeology, 5th Edition, Waveland Press, Inc., Long Grove
+- The Groundwater Project: [Link](https://gw-project.org/books)
 
-**Fetter, C.W. and Kreamer, D. (2022)**  
-*Applied Hydrogeology*, 5th Edition, Waveland Press, Inc., Long Grove
+
+## Course Schedule
+These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on canvas. 
+
+| Week | Date (From - To)     | Topic                                                                                             | Book Chapters  | Due Date |
+|------|----------------------|---------------------------------------------------------------------------------------------|----------------|-----|
+| 1    | 18-Aug - 24-Aug      | Introduction: Groundwater importance and challenges                                         | 1 & 2        | HW1 |
+| 2    | 25-Aug - 31-Aug      | Water budget;<br>Porosity and specific yield                                                | 1 & 2<br>3 & 8    | HW2 | 
+| 2    | 01-Sep               | Labor Day Observed (no classes)                                                             |                |     |
+| 3    | 01-Sep - 07-Sep      | Darcy’s experiment and Darcy’s law <br>Measuring hydraulic conductivity                     | 1 & 2<br>3 & 8    | HW3 |
+| 4    | 08-Sep - 14-Sep      | Unconfined and confined aquifers <br>Variation of hydraulic conductivity                    | 3 & 8          | HW4 |
+| 5    | 15-Sep - 21-Sep      | Aquifer storage <br>Hydraulic head principles                                               | 3 & 8<br> 4   | HW5 |
+| 6    | 22-Sep - 28-Sep      | Visual understanding of hydraulic head <br>Validity of Darcy’s law                          | 4              | HW6 |
+| 7    | 29-Sep - 05-Oct      | Groundwater flow equations <br>Solutions of groundwater flow equations                      | 4              | HW7 |
+| 8    | 06-Oct - 12-Oct      | Aquifer response to pumping <br>Steady-state drawdown                                       | 5              | HW8 |
+| 9    | 13-Oct - 19-Oct      | Transient drawdown: Theis solution <br> Field methods: Conducting a pumping test            | 5              | HW9 |
+| 10   | 20-Oct - 26-Oct      | Field methods: Pumping test analysis <br> Field methods: Electrical resistivity imaging     | 5              | HW10    |
+| 11   | 27-Oct - 02-Nov      | Hydrogeologic site characterization <br> Midterm exam                                       | 12             | HW11 <br>Midterm exam|
+| 12   | 03-Nov - 09-Nov      | Groundwater modeling: Introduction;<br>Groundwater modeling: Model setup                    | 13             | HW12  |       
+| 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model calibration;<br>Groundwater modeling: Model application         | 13 |                 |
+| 14   | 17-Nov - 23-Nov      | Hydrogeology of Florida                                                                     |    |                 |
+| 15   | 24-Nov - 25-Nov      | Thanksgiving Observed (no classes)                                                          | 10 |                   |
+| 15   | 26-Nov - 30-Nov      | Mass transport of solutes                                                                   |    |                   |
+| 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |    | Project Report |
+
+
+                  
