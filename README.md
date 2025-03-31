@@ -1,4 +1,4 @@
-## EGN 4930/5932C ST: Groundwater Hydrology
+## [EGN 4930/5932C ST: Groundwater Hydrology](https://aselshall.github.io/gwh)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Fall 2025  
