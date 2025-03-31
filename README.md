@@ -105,9 +105,9 @@ The instructor may elect to employ a curve that favors the students.
 ### Assessment Plan (100%)
 
 - Participation – 10%  
-- Homework – 20%  
+- Homework – 30%  
 - Midterm – 30%  
-- Project – 30%  
+- Project – 20%  
 - Paper Review – 10%
 
 ### General Notes
