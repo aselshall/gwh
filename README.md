@@ -8,8 +8,8 @@ Recorded Lessons:
 
 ## Course Information
 Course: EGN 4930/5932C ST: Groundwater Hydrology   
-CRN: EGN 4930[87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=87245)  
-CRN: EGN 5932C[86679](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=86679)   
+CRN: EGN 4930 – [87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=87245)  
+CRN: EGN 5932C – [86679](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=86679)   
 Credit hours: 3     
 Class: Online - Asynchronous       
 Exam: Final Presentation and Report
