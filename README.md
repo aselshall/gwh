@@ -6,6 +6,11 @@ Last updated:Mar 31, 2025
 
 Recorded Lessons:
 
+## Announcement
+As research assistant or through service learning, you will have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
+- [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
+- [Nutrients and pesticide transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
+  
 ## Course Information
 Course: EGN 4930/5932C ST: Groundwater Hydrology   
 CRN: EGN 4930 – [87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=87245)  
