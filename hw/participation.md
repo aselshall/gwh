@@ -43,6 +43,12 @@ These are the videos the require exit tickects. Modules 0 to 6 are required and 
 
 | Module                 | Video # | Video Title                                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
-| 1. Introduction         | 2       | Groundwater importance and challenges - Part 1        |
+| 1. Introduction         | 1      | Groundwater importance and challenges - Part 1        |
 | 1. Introduction         | 2       |Groundwater importance and challenges - Part 2                            |
-
+| 1. Introduction         | 3       |Water Budget                          |
+| 2. Aquifer Properties   | 1       |Porosity and specific yield                            |
+| 2. Aquifer Properties   | 2       |Darcy’s experiment                            |
+| 2. Aquifer Properties   | 3       |Darcy’s law                            |
+| 2. Aquifer Properties   | 5       |Measuring hydraulic conductivity                          |
+| 2. Aquifer Properties   | 6       |Unconfined and confined aquifers                           |
+| 2. Aquifer Properties   | 7       |Variation of hydraulic conductivity                        |
