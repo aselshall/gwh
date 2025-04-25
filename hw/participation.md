@@ -34,7 +34,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
-- Partial credit for incomplete/mismatched logs or late submissions (for detail, see [late submission policy](https://aselshall.github.io/aea/#late-homework-policy))
+- Partial credit for incomplete/mismatched logs or late submissions (for detail, see [late submission policy](https://aselshall.github.io/gwh/#late-homework-policy))
 - No credit for missed exit tickets or participation Log
 
 
@@ -43,5 +43,6 @@ These are the videos the require exit tickects. Modules 0 to 6 are required and 
 
 | Module                 | Video # | Video Title                                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
-| 0.         | 1       | TBD       |
-| 1.  | 1       |TBD                           |
+| 1. Introduction         | 2       | Groundwater importance and challenges - Part 1        |
+| 1. Introduction         | 2       |Groundwater importance and challenges - Part 1                            |
+
