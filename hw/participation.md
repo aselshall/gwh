@@ -44,5 +44,5 @@ These are the videos the require exit tickects. Modules 0 to 6 are required and 
 | Module                 | Video # | Video Title                                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
 | 1. Introduction         | 2       | Groundwater importance and challenges - Part 1        |
-| 1. Introduction         | 2       |Groundwater importance and challenges - Part 1                            |
+| 1. Introduction         | 2       |Groundwater importance and challenges - Part 2                            |
 
