@@ -119,6 +119,9 @@ These form the majority of your participation grade.
 ## Homework
 A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS. Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
 
+## Project
+You are required to complete a project that involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design. Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in groups of two. Undergraduates must work in groups of two or three. Self-directed projects may include up to five students, based on scope and instructor approval.
+
 ### Late Homework Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
