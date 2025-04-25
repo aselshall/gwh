@@ -52,3 +52,9 @@ These are the videos the require exit tickects. Modules 0 to 6 are required and 
 | 2. Aquifer Properties   | 5       |Measuring hydraulic conductivity                          |
 | 2. Aquifer Properties   | 6       |Unconfined and confined aquifers                           |
 | 2. Aquifer Properties   | 7       |Variation of hydraulic conductivity                        |
+| 2. Aquifer Properties   | 8       |Aquifer storage                       |
+| 2. Aquifer Properties   | 9       |Hydraulic head principles                       |
+| 2. Aquifer Properties   | 10       |Visual understanding of hydraulic head                      |
+| 2. Aquifer Properties   | 11       |Validity of Darcy’s law	                    |
+| 3. Groundwater flow   | 1       |Groundwater flow equations               |
+| 3. Groundwater flow   | 1       |Solutions of groundwater flow equations              |
