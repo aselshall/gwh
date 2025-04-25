@@ -39,7 +39,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 
 ### Videos
-These are the videos the require exit tickects. Modules 0 to 6 are required and modules 7 and 8 are elective. You need to complete all the required modules and one elective module of your choice.  
+These are the videos that require exit tickects.
 
 | Module                 | Video # | Video Title                                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
@@ -58,3 +58,4 @@ These are the videos the require exit tickects. Modules 0 to 6 are required and 
 | 2. Aquifer Properties   | 11       |Validity of Darcy’s law	                    |
 | 3. Groundwater flow   | 1       |Groundwater flow equations               |
 | 3. Groundwater flow   | 2      |Solutions of groundwater flow equations              |
+| ...   | ...     |...             |
