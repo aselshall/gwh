@@ -120,7 +120,7 @@ These form the majority of your participation grade.
 A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS. Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
 
 ## Midterm Exam
-The take-home midterm covers weeks 1–10. You have 48 hours to complete it, though many students finish in under 2 hours. As this is an individual exam, unauthorized help, AI use such as ChatGPT, or sharing your answers with other sutdents will not only result in a grade of zero for this exam, and full enforcement of [FGCU Academic Integrity Policy](#Policy-for-Academic-Integrity-Violations).
+The take-home midterm covers weeks 1–10. You have 48 hours to complete it, though many students finish in under 2 hours. As this is an individual exam, unauthorized help, AI use such as ChatGPT, or sharing your answers with other sutdents will result in a grade of zero for this exam, and full enforcement of [FGCU Academic Integrity Policy](#Policy-for-Academic-Integrity-Violations).
 
 ## Project
 You are required to complete a project that involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design. Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in groups of two. Undergraduates must work in groups of two or three. Self-directed projects may include up to five students, based on scope and instructor approval.
