@@ -57,4 +57,4 @@ These are the videos the require exit tickects. Modules 0 to 6 are required and 
 | 2. Aquifer Properties   | 10       |Visual understanding of hydraulic head                      |
 | 2. Aquifer Properties   | 11       |Validity of Darcy’s law	                    |
 | 3. Groundwater flow   | 1       |Groundwater flow equations               |
-| 3. Groundwater flow   | 1       |Solutions of groundwater flow equations              |
+| 3. Groundwater flow   | 2      |Solutions of groundwater flow equations              |
