@@ -59,26 +59,27 @@ By the end of this course, students will be able to:
 > These topics and dates are tentative and subject to change based on class progress.
 > Due dates are tentative; actual deadlines will be posted on canvas. 
 
-| Week | Date (From - To)     | Topic                                                                                             | Book Chapters  | Due Date |
-|------|----------------------|---------------------------------------------------------------------------------------------|----------------|-----|
-| 1    | 18-Aug - 24-Aug      | Introduction: Groundwater importance and challenges                                         | 1 & 2        | HW1 |
-| 2    | 25-Aug - 31-Aug      | Water budget;<br>Porosity and specific yield                                                | 1 & 2<br>3 & 8    | HW2 | 
-| 2    | 01-Sep               | Labor Day Observed (no classes)                                                             |                |     |
-| 3    | 01-Sep - 07-Sep      | Darcy’s experiment and Darcy’s law <br>Measuring hydraulic conductivity                     | 1 & 2<br>3 & 8    | HW3 |
-| 4    | 08-Sep - 14-Sep      | Unconfined and confined aquifers <br>Variation of hydraulic conductivity                    | 3 & 8          | HW4 |
-| 5    | 15-Sep - 21-Sep      | Aquifer storage <br>Hydraulic head principles                                               | 3 & 8<br> 4   | HW5 |
-| 6    | 22-Sep - 28-Sep      | Visual understanding of hydraulic head <br>Validity of Darcy’s law                          | 4              | HW6 |
-| 7    | 29-Sep - 05-Oct      | Groundwater flow equations <br>Solutions of groundwater flow equations                      | 4              | HW7 |
-| 8    | 06-Oct - 12-Oct      | Aquifer response to pumping <br>Steady-state drawdown                                       | 5              | HW8 |
-| 9    | 13-Oct - 19-Oct      | Transient drawdown: Theis solution <br> Field methods: Conducting a pumping test            | 5              | HW9 |
-| 10   | 20-Oct - 26-Oct      | Field methods: Pumping test analysis <br> Field methods: Electrical resistivity imaging     | 5              | HW10    |
+| Week | Date (From - To)     | Topic                                                                                       | Book Chapters  | Due Date |
+|------|----------------------|---------------------------------------------------------------------------------------------|----------------|----- |
+| 1    | 18-Aug - 24-Aug      | Introduction: Groundwater importance and challenges                                         | 1 & 2          | HW1  |
+| 2    | 25-Aug - 31-Aug      | Water budget;<br>Porosity and specific yield                                                | 1 & 2<br>3 & 8 | HW2  | 
+| 2    | Monday 01-Sep        | Labor Day Observed (no classes)                                                             |                |      |
+| 3    | 01-Sep - 07-Sep      | Darcy’s experiment and Darcy’s law <br>Measuring hydraulic conductivity                     | 1 & 2<br>3 & 8 | HW3  |
+| 4    | 08-Sep - 14-Sep      | Unconfined and confined aquifers <br>Variation of hydraulic conductivity                    | 3 & 8          | HW4  |
+| 5    | 15-Sep - 21-Sep      | Aquifer storage <br>Hydraulic head principles                                               | 3 & 8<br> 4    | HW5  |
+| 6    | 22-Sep - 28-Sep      | Visual understanding of hydraulic head <br>Validity of Darcy’s law                          | 4              | HW6  |
+| 7    | 29-Sep - 05-Oct      | Groundwater flow equations <br>Solutions of groundwater flow equations                      | 4              | HW7  |
+| 8    | 06-Oct - 12-Oct      | Aquifer response to pumping <br>Steady-state drawdown                                       | 5              | HW8  |
+| 9    | 13-Oct - 19-Oct      | Transient drawdown: Theis solution <br> Field methods: Conducting a pumping test            | 5              | HW9  |
+| 10   | 20-Oct - 26-Oct      | Field methods: Pumping test analysis <br> Field methods: Electrical resistivity imaging     | 5              | HW10 |
 | 11   | 27-Oct - 02-Nov      | Hydrogeologic site characterization <br> Midterm exam                                       | 12             | HW11 <br>Midterm exam|
-| 12   | 03-Nov - 09-Nov      | Groundwater modeling: Introduction;<br>Groundwater modeling: Model setup                    | 13             | HW12  |       
+| 12   | 03-Nov - 09-Nov      | Groundwater modeling: Introduction;<br>Groundwater modeling: Model setup                    | 13             | HW12 |       
 | 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model calibration;<br>Groundwater modeling: Model application         | 13             | HW13 |
-| 14   | 17-Nov - 23-Nov      | Hydrogeology of Florida                                                                     | Handouts       | HW14  |
-| 15   | 24-Nov - 25-Nov      | Thanksgiving Observed (no classes)                                                          |                |       |
-| 15   | 26-Nov - 30-Nov      | Mass transport of solutes                                                                   | 10             | HW15  |
-| 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |    | Project Report |
+| 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                  |                |      |
+| 14   | 17-Nov - 23-Nov      | Special Topic: Mass transport of solutes                                                    | 10             | HW14 |
+| 15   | 24-Nov - 25-Nov      | Thanksgiving Observed (no classes)                                                          |                |      |
+| 15   | 26-Nov - 30-Nov      | Special Topic: Hydrogeology of Florida                                                      | Handouts       | HW15 |
+| 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |                | Project Report |
 
 ## Assessment and Grading
 
