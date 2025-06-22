@@ -78,7 +78,7 @@ By the end of this course, students will be able to:
 | 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                  |                |      |
 | 14   | 17-Nov - 23-Nov      | Special Topic: Mass transport of solutes                                                    | 10             | HW14 |
 | 15   | 24-Nov - 25-Nov      | Special Topic: Hydrogeology of Florida                                                      | Handouts       | HW15 |
-| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                          | Handouts       | HW15 |
+| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                          |                |      |
 | 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |                | Project Report |
 
 ## Assessment and Grading
