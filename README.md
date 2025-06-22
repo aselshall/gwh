@@ -73,12 +73,12 @@ By the end of this course, students will be able to:
 | 9    | 13-Oct - 19-Oct      | Transient drawdown: Theis solution <br> Field methods: Conducting a pumping test            | 5              | HW9  |
 | 10   | 20-Oct - 26-Oct      | Field methods: Pumping test analysis <br> Field methods: Electrical resistivity imaging     | 5              | HW10 |
 | 11   | 27-Oct - 02-Nov      | Hydrogeologic site characterization <br> Midterm exam                                       | 12             | HW11 <br>Midterm exam|
-| 12   | 03-Nov - 09-Nov      | Groundwater modeling: Introduction<br>Groundwater modeling: Model setup                    | 13             | HW12 |       
-| 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model calibration<br>Groundwater modeling: Model application         | 13             | HW13 |
+| 12   | 03-Nov - 09-Nov      | Groundwater modeling: Introduction<br>Groundwater modeling: Model setup                     | 13             | HW12 |       
+| 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model calibration<br>Groundwater modeling: Model application          | 13             | HW13 |
 | 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                  |                |      |
 | 14   | 17-Nov - 23-Nov      | Special Topic: Mass transport of solutes                                                    | 10             | HW14 |
-| 15   | 24-Nov - 25-Nov      | Thanksgiving Observed (no classes)                                                          |                |      |
-| 15   | 26-Nov - 30-Nov      | Special Topic: Hydrogeology of Florida                                                      | Handouts       | HW15 |
+| 15   | 24-Nov - 25-Nov      | Special Topic: Hydrogeology of Florida                                                      | Handouts       | HW15 |
+| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                          | Handouts       | HW15 |
 | 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |                | Project Report |
 
 ## Assessment and Grading
