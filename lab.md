@@ -42,19 +42,19 @@ This is used to collect and store data from the weather station and various sens
 
 ## Surface water and groundwater hydraulic measurements
 
-### [Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
+### [ABEM Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
 ABEM Terrameter LS 2 for repeated autonomous monitoring across an electrode layout of hundreds of metres or a one-off measurement on centimetre-spaced pins in a laboratory model
 
 ### [Meter SATURO](https://metergroup.com/products/saturo/)
 This is an automated permeameter used for measuring soil permeability, 
 
-### [Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16)
+### [YSI Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16)
 This measures water levels and temperature with a 0-250 ft range, includes a 300 ft cable, and supports USB communication.
 
-### [Portable Velocity Systemh](https://www.hach.com/p-fh950-handheld-flow-meters/FH950.11040)
+### [Hach Portable Velocity System](https://www.hach.com/p-fh950-handheld-flow-meters/FH950.11040)
 The FH950 Portable Velocity System with 40' Cable by Hach is used for measuring water flow velocity in streams and open channels.
 
-### [Water Level Meter](https://www.amazon.com/SOLINST-101-WATER-LEVEL-METER/dp/B00XNMOVAM/)
+### [Solinst Water Level Meter](https://www.amazon.com/SOLINST-101-WATER-LEVEL-METER/dp/B00XNMOVAM/)
 The Solinst Water Level Meters (101 P7-300 Feet) is for groundwater level measurements. 
 
 
