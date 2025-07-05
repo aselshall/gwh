@@ -8,12 +8,11 @@ The Surface Water-Groundwater Field Lab supports both field-based research and h
 
 ## Water quality measurements
 
+![image](https://github.com/user-attachments/assets/3a1e9303-bbb0-452e-9c6b-7a7b6245e02e)
+
 ### [YSI ProSample P-12](https://www.ysi.com/prosample)
 This is a full-size portable sampler with SDI-12 connectivity, designed for automatic water sampling. It comes with distributor arms to hold (24) 1L bottles, an SDI-12 cable for device connectivity, and a set of (24) 1L polyethylene bottles with lids for sample storage. It comes with a battery charger (IP-67) waterproof and CEC compliant, suitable for charging equipment batteries in the field.
-![image](https://github.com/user-attachments/assets/38c9d503-8fec-4bab-b9f9-dbf24e91c88a)
-Image credit: YSI
-
-
+      
 ### [YSI EXO2 Sonde](https://www.ysi.com/exo2)
 This is a multiparameter water quality sonde with six sensor ports, capable of 250 m depth measurements, and includes accessories like batteries, a calibration cup, and a tool kit. Accompanying the sonde are various sensors:  
 - [Conductivity/Temperature Sensor](https://www.ysi.com/wipedct) with anti-fouling capabilities
@@ -22,13 +21,13 @@ This is a multiparameter water quality sonde with six sensor ports, capable of 2
 - [EXO-guarded Ammonium ISE (ion-selective electrode) Sensor](https://www.ysi.com/product/id-599710/EXO-Ammonium-Smart-Sensor) with welded titanium construction and wet-mateable connectors for measuring NH4 in freshwater with depth up 17 meters (55 ft) or 25 psi
 - [EXO guarded Nitrate ISE (ion-selective electrode) Sensor] with welded titanium construction and wet-mateable connectors for measuring NO3 in freshwater with depth up 17 meters (55 ft) or 25 psi
 - [EXO Rhodamine Digital Smart Sensor](https://www.ysi.com/exo/rhodamine) for dye tracer tests  with low adsorptive tendency, strong fluorescence, and sensitive detection limit
-![image](https://github.com/user-attachments/assets/746470ff-353e-4f4a-af40-d7c9b824c364)
-Image credit: YSI
 
 ### [12V Stainless Steel Monsoon XL pump](https://www.fondriest.com/proactive-stainlesssteel-monsoon-xl-pump.htm)
 This is for groundwater sampling and pumping with a 130' PVC wire lead and two motor modules, mounted on a metal reel, includes the Low Flow with Power Booster 2 XL LCD Controller (COMBO-XL-20)
 
 ## Near-real-time water budget measurements
+
+![image](https://github.com/user-attachments/assets/3d7fdfc4-a3fb-443a-bc1b-cb29c4df28ef)
 
 ### [Meter ATMOS 41W](https://metergroup.com/)
 The wireless remote weather station is a single unit designed to provide comprehensive weather data remotely. It comes with weather station accessories, including bird spikes for outdoor installation to ensure accurate measurements without interference.
@@ -45,13 +44,17 @@ This is used for measuring water depth, electrical conductivity (EC), and temper
 ### [Meter ZL6 logger](https://metergroup.com/products/zl6/)
 This is used to collect and store data from the weather station and various sensors.
 
+### [Meter SATURO](https://metergroup.com/products/saturo/)
+This is an automated permeameter used for measuring soil permeability, 
+
 ## Surface water and groundwater hydraulic measurements
+
+![image](https://github.com/user-attachments/assets/5c2aef73-0b49-47a3-a8b2-720989001cfd)
+
+![image](https://github.com/user-attachments/assets/26e69fef-b133-4514-80e1-93bfbe88f5a2)
 
 ### [ABEM Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
 ABEM Terrameter LS 2 for repeated autonomous monitoring across an electrode layout of hundreds of metres or a one-off measurement on centimetre-spaced pins in a laboratory model
-
-### [Meter SATURO](https://metergroup.com/products/saturo/)
-This is an automated permeameter used for measuring soil permeability, 
 
 ### [YSI Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16)
 This measures water levels and temperature with a 0-250 ft range, includes a 300 ft cable, and supports USB communication.
