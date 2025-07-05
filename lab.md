@@ -10,6 +10,9 @@ The Surface Water-Groundwater Field Lab supports both field-based research and h
 
 ### [YSI ProSample P-12](https://www.ysi.com/prosample)
 This is a full-size portable sampler with SDI-12 connectivity, designed for automatic water sampling. It comes with distributor arms to hold (24) 1L bottles, an SDI-12 cable for device connectivity, and a set of (24) 1L polyethylene bottles with lids for sample storage. It comes with a battery charger (IP-67) waterproof and CEC compliant, suitable for charging equipment batteries in the field.
+![image](https://github.com/user-attachments/assets/38c9d503-8fec-4bab-b9f9-dbf24e91c88a)
+Image credit: YSI
+
 
 ### [YSI EXO2 Sonde](https://www.ysi.com/exo2)
 This is a multiparameter water quality sonde with six sensor ports, capable of 250 m depth measurements, and includes accessories like batteries, a calibration cup, and a tool kit. Accompanying the sonde are various sensors:  
@@ -19,6 +22,8 @@ This is a multiparameter water quality sonde with six sensor ports, capable of 2
 - [EXO-guarded Ammonium ISE (ion-selective electrode) Sensor](https://www.ysi.com/product/id-599710/EXO-Ammonium-Smart-Sensor) with welded titanium construction and wet-mateable connectors for measuring NH4 in freshwater with depth up 17 meters (55 ft) or 25 psi
 - [EXO guarded Nitrate ISE (ion-selective electrode) Sensor] with welded titanium construction and wet-mateable connectors for measuring NO3 in freshwater with depth up 17 meters (55 ft) or 25 psi
 - [EXO Rhodamine Digital Smart Sensor](https://www.ysi.com/exo/rhodamine) for dye tracer tests  with low adsorptive tendency, strong fluorescence, and sensitive detection limit
+![image](https://github.com/user-attachments/assets/746470ff-353e-4f4a-af40-d7c9b824c364)
+Image credit: YSI
 
 ### [12V Stainless Steel Monsoon XL pump](https://www.fondriest.com/proactive-stainlesssteel-monsoon-xl-pump.htm)
 This is for groundwater sampling and pumping with a 130' PVC wire lead and two motor modules, mounted on a metal reel, includes the Low Flow with Power Booster 2 XL LCD Controller (COMBO-XL-20)
