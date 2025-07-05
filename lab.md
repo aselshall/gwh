@@ -79,11 +79,12 @@ ABEM Terrameter LS 2 for groundwater, environmental and geotechnical application
 
 Some of these equipment are not at the WCE but we can borrow them from TWS and ETI
 - General toolset
+- Bubble level
+- Car battery
 - Rollup measuing tapes and open-reel survey tapes
-- Total station
-- Portable concrete mixer 
-- Digging tools: Post digger, hand auger, San Angelo Bar 
-- battery
-- secchi disk
-- multi-level sampler
-- wader
+- Total station 
+- Portable concrete mixer (ETI)
+- Digging tools: Post digger, hand auger, San Angelo Bar (TWS)
+- Secchi disk (TWS)
+- Multi-level sampler (TWS)
+- Wader (TWS)
