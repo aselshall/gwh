@@ -84,7 +84,7 @@ Some of these equipment are not at the WCE but we can borrow them from TWS and E
 - Rollup measuing tapes and open-reel survey tapes
 - Total station 
 - Portable concrete mixer (ETI)
-- Micro-hand auger with multi-level sampler 
+- Soil micro-auger with multi-level sampler 
 - Digging tools: Post digger, hand auger, San Angelo Bar (TWS)
 - Secchi disk (TWS)
 - Multi-level sampler (TWS)
