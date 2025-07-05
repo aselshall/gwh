@@ -47,11 +47,11 @@ This is used to collect and store data from the weather station and various sens
 ### [Meter SATURO](https://metergroup.com/products/saturo/)
 This is an automated permeameter used for measuring soil permeability, 
 
-## Surface water and groundwater hydraulic measurements
-
-![image](https://github.com/user-attachments/assets/5c2aef73-0b49-47a3-a8b2-720989001cfd)
+## Surface water and groundwater hydrologic and hydraulic measurements
 
 ![image](https://github.com/user-attachments/assets/26e69fef-b133-4514-80e1-93bfbe88f5a2)
+
+![image](https://github.com/user-attachments/assets/5c2aef73-0b49-47a3-a8b2-720989001cfd)
 
 ### [ABEM Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
 ABEM Terrameter LS 2 for repeated autonomous monitoring across an electrode layout of hundreds of metres or a one-off measurement on centimetre-spaced pins in a laboratory model
