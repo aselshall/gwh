@@ -49,7 +49,7 @@ This is an automated permeameter used for measuring soil permeability,
 
 ## Surface water and groundwater hydraulic measurements
 
-![image](https://github.com/user-attachments/assets/26e69fef-b133-4514-80e1-93bfbe88f5a2)
+![image](https://github.com/user-attachments/assets/5c2aef73-0b49-47a3-a8b2-720989001cfd)
 
 ### [YSI Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16)
 This measures water levels and temperature with a 0-250 ft range, includes a 300 ft cable, and supports USB communication.
@@ -62,7 +62,7 @@ The Solinst Water Level Meters (101 P7-300 Feet) is for groundwater level measur
 
 ## Hydrogeophysical surveys
 
-![image](https://github.com/user-attachments/assets/5c2aef73-0b49-47a3-a8b2-720989001cfd)
+![image](https://github.com/user-attachments/assets/26e69fef-b133-4514-80e1-93bfbe88f5a2)
 
 ### [ABEM Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
 ABEM Terrameter LS 2 for groundwater, environmental and geotechnical applications with repeated autonomous monitoring across an electrode layout of hundreds of metres or a one-off measurement on centimetre-spaced pins in a laboratory model
