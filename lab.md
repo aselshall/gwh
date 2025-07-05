@@ -47,7 +47,7 @@ This is used to collect and store data from the weather station and various sens
 ### [Meter SATURO](https://metergroup.com/products/saturo/)
 This is an automated permeameter used for measuring soil permeability, 
 
-## Surface water and groundwater hydrologic and hydraulic measurements
+## Surface water and groundwater hydraulic measurements
 
 ![image](https://github.com/user-attachments/assets/26e69fef-b133-4514-80e1-93bfbe88f5a2)
 
