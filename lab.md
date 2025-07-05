@@ -6,6 +6,8 @@ The Surface Water-Groundwater Field Lab supports both field-based research and h
 - [fate and transport of pesticides and nutrients from agricultural areas in south florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
 - sustainable agricultural inputs to improve crop productivity and reduce environmental impacts
 
+![image](https://github.com/user-attachments/assets/1bacf970-b75c-4212-898c-209efac8ef3d)
+
 ## Water quality measurements
 
 ![image](https://github.com/user-attachments/assets/3a1e9303-bbb0-452e-9c6b-7a7b6245e02e)
@@ -68,6 +70,7 @@ The Solinst Water Level Meters (101 P7-300 Feet) is for groundwater level measur
 ABEM Terrameter LS 2 for groundwater, environmental and geotechnical applications with repeated autonomous monitoring across an electrode layout of hundreds of metres or a one-off measurement on centimetre-spaced pins in a laboratory model
 
 ## General fieldwork equipment and supplies 
+
 Some of these equipment are not at the WCE but we can borrow them from TWS and ETI
 - General toolset
 - Rollup measuing tapes and open-reel survey tapes
