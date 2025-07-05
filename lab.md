@@ -8,10 +8,10 @@ The Surface Water-Groundwater Field Lab supports both field-based research and h
 
 ## Water quality measurements
 
-#### [YSI ProSample P-12](https://www.ysi.com/prosample)
+### [YSI ProSample P-12](https://www.ysi.com/prosample)
 This is a full-size portable sampler with SDI-12 connectivity, designed for automatic water sampling. It comes with distributor arms to hold (24) 1L bottles, an SDI-12 cable for device connectivity, and a set of (24) 1L polyethylene bottles with lids for sample storage. It comes with a battery charger (IP-67) waterproof and CEC compliant, suitable for charging equipment batteries in the field.
 
-#### [YSI EXO2 Sonde](https://www.ysi.com/exo2)
+### [YSI EXO2 Sonde](https://www.ysi.com/exo2)
 This is a multiparameter water quality sonde with six sensor ports, capable of 250 m depth measurements, and includes accessories like batteries, a calibration cup, and a tool kit. Accompanying the sonde are various sensors:  
 - [Conductivity/Temperature Sensor](https://www.ysi.com/wipedct) with anti-fouling capabilities
 - [Optical DO Sensor(https://www.ysi.com/product/id-599100-01/EXO-Optical-Dissolved-Oxygen-Smart-Sensor) with a titanium housing for dissolved oxygen measurement
@@ -20,41 +20,41 @@ This is a multiparameter water quality sonde with six sensor ports, capable of 2
 - [EXO guarded Nitrate ISE (ion-selective electrode) Sensor] with welded titanium construction and wet-mateable connectors for measuring NO3 in freshwater with depth up 17 meters (55 ft) or 25 psi
 - [EXO Rhodamine Digital Smart Sensor](https://www.ysi.com/exo/rhodamine) for dye tracer tests  with low adsorptive tendency, strong fluorescence, and sensitive detection limit
 
-#### [12V Stainless Steel Monsoon XL pump](https://www.fondriest.com/proactive-stainlesssteel-monsoon-xl-pump.htm)
+### [12V Stainless Steel Monsoon XL pump](https://www.fondriest.com/proactive-stainlesssteel-monsoon-xl-pump.htm)
 This is for groundwater sampling and pumping with a 130' PVC wire lead and two motor modules, mounted on a metal reel, includes the Low Flow with Power Booster 2 XL LCD Controller (COMBO-XL-20)
 
 ## Near-real-time water budget measurements
 
-#### [Meter ATMOS 41W](https://metergroup.com/)
+### [Meter ATMOS 41W](https://metergroup.com/)
 The wireless remote weather station is a single unit designed to provide comprehensive weather data remotely. It comes with weather station accessories, including bird spikes for outdoor installation to ensure accurate measurements without interference.
 
-#### [Meter TEROS Soil Moisture Profile Probe](https://metergroup.com/products/teros-54/)
+### [Meter TEROS Soil Moisture Profile Probe](https://metergroup.com/products/teros-54/)
 It provides detailed soil moisture profiling
 
-#### [Meter TEROS 12 Soil Moisture Sensors](https://metergroup.com/products/teros-12/)
+### [Meter TEROS 12 Soil Moisture Sensors](https://metergroup.com/products/teros-12/)
 This measures soil moisture at specific points.
 
-#### [Meter HYDROS 21](https://metergroup.com/products/hydros-21/)
+### [Meter HYDROS 21](https://metergroup.com/products/hydros-21/)
 This is used for measuring water depth, electrical conductivity (EC), and temperature.
 
-#### [Meter ZL6 logger](https://metergroup.com/products/zl6/)
+### [Meter ZL6 logger](https://metergroup.com/products/zl6/)
 This is used to collect and store data from the weather station and various sensors.
 
 ## Surface water and groundwater hydraulic measurements
 
-#### [Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
+### [Electrical Resistivity Tomography (ERT)](https://www.guidelinegeo.com/product/abem-terrameter-ls-2/)
 ABEM Terrameter LS 2 for repeated autonomous monitoring across an electrode layout of hundreds of metres or a one-off measurement on centimetre-spaced pins in a laboratory model
 
-#### [Meter SATURO](https://metergroup.com/products/saturo/)
+### [Meter SATURO](https://metergroup.com/products/saturo/)
 This is an automated permeameter used for measuring soil permeability, 
 
-#### [Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16)
+### [Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16)
 This measures water levels and temperature with a 0-250 ft range, includes a 300 ft cable, and supports USB communication.
 
-#### [Portable Velocity Systemh](https://www.hach.com/p-fh950-handheld-flow-meters/FH950.11040)
+### [Portable Velocity Systemh](https://www.hach.com/p-fh950-handheld-flow-meters/FH950.11040)
 The FH950 Portable Velocity System with 40' Cable by Hach is used for measuring water flow velocity in streams and open channels.
 
-#### [Water Level Meter](https://www.amazon.com/SOLINST-101-WATER-LEVEL-METER/dp/B00XNMOVAM/)
+### [Water Level Meter](https://www.amazon.com/SOLINST-101-WATER-LEVEL-METER/dp/B00XNMOVAM/)
 The Solinst Water Level Meters (101 P7-300 Feet) is for groundwater level measurements. 
 
 
