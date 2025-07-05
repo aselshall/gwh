@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/1bacf970-b75c-4212-898c-209efac8ef3d)
 
 The Surface Water-Groundwater Field Lab supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. This includes 
-- high-resolution water quality analysis,
-- near-real-time water budget calculations,
-- hydraulic measurements,
-- subsurface imaging using hydrogeophysical methods like Electrical Resistivity Tomography (ERT).
+- high-resolution water quality analysis
+- near-real-time water budget calculations
+- hydraulic measurements
+- subsurface imaging using hydrogeophysical methods 
 
 By bringing these analytical toolTs to the field, we advance scientific understanding of and develop solutions for complex hydrological and environmental systems. These systems include: 
 - interaction between surface water-groundwater systems and coastal estuaries
