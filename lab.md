@@ -1,4 +1,4 @@
-# Surface water-groundwater field lab
+# [Surface water-groundwater field lab](https://aselshall.github.io/gwh/lab)
 
 The Surface Water-Groundwater Field Lab supports both field-based research and hands-on teaching. The lab consists of a comprehensive suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. This includes high-resolution water quality analysis, near-real-time water budget calculations, hydraulic measurements, subsurface imaging using hydrogeophysical methods like Electrical Resistivity Tomography (ERT). By bringing these analytical tools to the field, we advance scientific understanding of and develop solutions for complex hydrological and environmental systems. These systems include: 
 - interaction between surface water-groundwater systems and coastal estuaries
