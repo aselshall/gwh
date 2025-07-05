@@ -8,7 +8,7 @@ The Surface Water-Groundwater Field Lab supports both field-based research and h
 - hydraulic measurements
 - subsurface imaging using hydrogeophysical methods 
 
-By bringing these analytical toolTs to the field, we advance scientific understanding of and develop solutions for complex hydrological and environmental systems. These systems include: 
+By bringing these analytical tools to the field, we advance scientific understanding of and develop solutions for complex hydrological and environmental systems. These systems include: 
 - interaction between surface water-groundwater systems and coastal estuaries
 - [sustainability of vital groundwater aquifers and climate resilience](https://mewcha1.github.io/NBI)
 - [fate and transport of pesticides and nutrients from agricultural areas in south florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
