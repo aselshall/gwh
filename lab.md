@@ -51,10 +51,10 @@ By bringing these analytical tools to the field, we advance understanding and de
 ## General fieldwork equipment and supplies 
 General equipment is available to support field operations, some of which may be borrowed from university partners.
 
-- Tools and measurement: General toolset, post diggers, hand augers, San Angelo Bar, measuring tapes, bubble level, and a total station for surveying.
-- Sampling and observation: Soil micro-auger, multi-level samplers, Secchi disk, and waders
-- Logistics and support: Ice boxes, canopy shade, heavy-duty folding wagon, car batteries, and a generator
-- Specialized: A portable concrete mixer for general installation
+- **Tools and measurement:** General toolset, post diggers, hand augers, San Angelo Bar, measuring tapes, bubble level, and a total station for surveying.
+- **Sampling and observation:** Soil micro-auger, multi-level samplers, Secchi disk, and waders
+- **Logistics and support:** Ice boxes, canopy shade, heavy-duty folding wagon, car batteries, and a generator
+- **Specialized:** A portable concrete mixer for general installation
 
 ## Software and computational tools
 Beyond physical fieldwork, the lab host suite of software and high-performance computing resources for data analysis, computational modeling, and engineering designs.
