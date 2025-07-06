@@ -24,7 +24,7 @@ By bringing these analytical tools to the field, we advance understanding and de
 
 ## Near-real-time water budget measurements
 
-![image](https://github.com/user-attachments/assets/e3428f5b-0a60-4325-bb07-6e02bfdc4314)
+![image](https://github.com/user-attachments/assets/876b43e5-c8ce-4850-be89-5996c723b979)
 
 - [Meter ATMOS 41W](https://metergroup.com/): An all-in-one wireless remote weather station providing comprehensive meteorological data
 - [Meter TEROS Soil Moisture Profile Probe](https://metergroup.com/products/teros-54/): For detailed vertical soil moisture profiling
