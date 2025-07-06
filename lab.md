@@ -64,6 +64,6 @@ Beyond physical fieldwork, the lab host suite of software and high-performance c
   - Numerical modeling including groundwater flow, contaminant transport, and surface water-groundwater interactions
   - Machine learning, deep learning and AI for problems too complex for traditional modeling
   - Calibration and optimization using high-performance computing
-  - Uncertainty analysis including broad uncertainity analysis for analyzing potential range of outcomes and sampling optimization
+  - Uncertainty analysis for analyzing potential range of outcomes and sampling optimization
 - High-performance computing (HPC): Through a partnership with the University of Florida, the lab has access to HiPerGator AI providing computational power for large-scale simulations, complex optimization problems, and training advanced machine learning models
 
