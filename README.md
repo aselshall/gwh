@@ -4,7 +4,7 @@ U.A. Whitaker College of Engineering
 Fall 2025  
 Last updated:Mar 31, 2025
 
-Recorded Lessons: TBA
+Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg)
 
 ## Announcement
 As research assistant or through service learning, you will have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
