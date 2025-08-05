@@ -26,11 +26,6 @@ Office Hours : Tuesday 9:00 AM – 12:00 PM and by appointment using [this link]
 ## Resources
 [Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. 
 
-## Announcement
-As research assistant or through service learning, you will have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
-- [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
-- [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
- 
 ## Course Description
 
 This course introduces the fundamental principles of groundwater flow and solute transport in aquifers, emphasizing interactions between groundwater and the environment. Students will gain hands-on experience with basic groundwater modeling using the industry-standard tool MODFLOW, providing a foundation for further study and careers in water resources management.
@@ -53,7 +48,7 @@ By the end of this course, students will be able to:
 - Understand the interactions among hydrological, geological, and transport processes affecting groundwater systems
 - Develop and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
 
-## Recommended Textbook
+## Recommended Textbooks
 - Fetter, C.W. and Kreamer, D. (2022), Applied Hydrogeology, 5th Edition, Waveland Press, Inc., Long Grove
 - The Groundwater Project: [Link](https://gw-project.org/books)
 
@@ -127,7 +122,8 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 The take-home midterm covers weeks 1–10. You have 48 hours to complete it, though many students finish in under 2 hours. As this is an individual exam, unauthorized help, AI use such as ChatGPT, or sharing your answers with other sutdents will result in a grade of zero for this exam, and full enforcement of [FGCU Academic Integrity Policy](#Policy-for-Academic-Integrity-Violations).
 
 ## Project
-You are required to complete a project that involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design. Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in groups of two. Undergraduates must work in groups of two or three. Self-directed projects may include up to five students, based on scope and instructor approval.
+- You are required to complete a project that involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
+- Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in a group. Self-directed projects may include up to five students, based on scope and instructor approval. You can count service learning hours while working on you self-directed project. Check 
 
 ### Late Homework Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
@@ -140,6 +136,18 @@ You are required to complete a project that involves analyzing field data to set
 - You will have 24 hours to complete the exam, which will include approximately 10 multiple-choice questions testing qualitative understanding, and about five problems focused on problem-solving.  
 - Study guide: If you can solve the exercises, practice problems, and homework assignments, you will be well-prepared for the exam.  
 - A makeup exam may be provided for students with an [excused absence](#excused-absence-policy).
+
+## [Service Learning (Optional)]
+
+You have the option to count service learning hours while working on your term project. To qualify, your term project should address a direct or research need for a community partner that is not-for-profit. FGCU can be a community partner. You have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
+- [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
+- [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
+    
+Check this [link](https://aselshall.github.io/eds/HW/sl-events) for service learning events including:
+   - [Service-Learning Fair]([https://fgcu.campuslabs.com/engage/event/10670146]):  Tuesday, September 2, 2025 (10am-2pm, Cohen Ballroom)
+   - [For Graduating Seniors: Deadline for all service-learning hours](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting) tracked and verified in Eagle Service Network:  September 19, 2025
+   - Apply to Fall Community Engagement Showcase at SURI- Application link coming soon!: November
+   - Fall Community Engagement Showcase at SURI  Dec 5th 3-5:30pm
 
 ## Execused Absence Policy
 - Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
