@@ -26,7 +26,7 @@ Department of Bioengineering, Civil Engineering, and Environmental Engineering
 U.A. Whitaker College of Engineering Joint Appointment with The Water School  
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
-Office Hours : Tuesday 9:00 am - 12:00 pm and by appointment  
+Office Hours : Tuesday 9:00 AM – 12:00 PM and by appointment using [this link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ## Course Description
 
