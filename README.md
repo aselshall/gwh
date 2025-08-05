@@ -28,6 +28,9 @@ Office: Holmes Hall 423 (inside 416)
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
 Office Hours : Tuesday 9:00 AM – 12:00 PM and by appointment using [this link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
+## Resources
+[Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. 
+
 ## Course Description
 
 This course introduces the fundamental principles of groundwater flow and solute transport in aquifers, emphasizing interactions between groundwater and the environment. Students will gain hands-on experience with basic groundwater modeling using the industry-standard tool MODFLOW, providing a foundation for further study and careers in water resources management.
