@@ -5,12 +5,7 @@ Fall 2025
 Last updated:Mar 31, 2025
 
 Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg)
-
-## Announcement
-As research assistant or through service learning, you will have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
-- [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
-- [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
-  
+ 
 ## Course Information
 Course: EGN 4930/5932C ST: Groundwater Hydrology   
 CRN: EGN 4930 – [87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=87245)  
@@ -31,6 +26,11 @@ Office Hours : Tuesday 9:00 AM – 12:00 PM and by appointment using [this link]
 ## Resources
 [Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. 
 
+## Announcement
+As research assistant or through service learning, you will have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
+- [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
+- [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
+ 
 ## Course Description
 
 This course introduces the fundamental principles of groundwater flow and solute transport in aquifers, emphasizing interactions between groundwater and the environment. Students will gain hands-on experience with basic groundwater modeling using the industry-standard tool MODFLOW, providing a foundation for further study and careers in water resources management.
