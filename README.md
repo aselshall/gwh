@@ -143,24 +143,25 @@ You have the option to count service learning hours while working on your term p
 - [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
 - [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
     
-Useful information:
+#### Useful information
 - Check service learning events including Service-Learning Fair: [Link](https://fgcu.campuslabs.com/engage/organization/servicelearning/events)
+- Once confirmed with your partner, submit your Service-Learning Form through the Eagle Service Network: [Instructions LINK](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting)
+- Note: September 19th: Last day for graduating seniors to submit their Service-Learning hours.
 
-Once confirmed with your partner, submit your Service-Learning Form through the Eagle Service Network.
+#### Action Steps
+To count service learning hours, follow these steps:
+- Step 1 Preparation:
+  - Identify a **not-for-profit** community partner and plan your project with them.
+  - Tip: As identifying and planning with a partner can take time, start the preparation early (week 1) and discuss with the instructor your project idea and feasibility 
+- Step 2 Action:
+  - Setup service record in the [Eagle Service Network (ESN)](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting)
+  - Work on your project, and track your individual hours: [YouTube Video Guide](https://youtu.be/QbQw6KiHTx0)
+- Step 3 Reflection:
+  - Reflect on the process in your final report 
+- Step 4 Submission:
+  - Send professional message to community partner to express gratitude, summarize work and hours, and request hour approval    
+  - Submit aproved hours to ESN and submit screenshot to Canvas for verification 
 
-Instructions LINK
-
-Need help tracking your hours? Consider using a service-learning log.  EXAMPLE provided by Dr. Colleen Robb.
-
-Note: September 19th: Last day for graduating seniors to submit their Service-Learning hours.
-
-
-
-
-   - [Service-Learning Fair]([https://fgcu.campuslabs.com/engage/event/10670146]):  Tuesday, September 2, 2025 (10am-2pm, Cohen Ballroom)
-   - [For Graduating Seniors: Deadline for all service-learning hours](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting) tracked and verified in Eagle Service Network:  September 19, 2025
-   - Apply to Fall Community Engagement Showcase at SURI- Application link coming soon!: November
-   - Fall Community Engagement Showcase at SURI  Dec 5th 3-5:30pm
 
 ## Execused Absence Policy
 - Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
