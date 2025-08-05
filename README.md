@@ -123,7 +123,7 @@ The take-home midterm covers weeks 1–10. You have 48 hours to complete it, tho
 
 ## Project
 - You are required to complete a project that involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
-- Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in a group. Self-directed projects may include up to five students, based on scope and instructor approval. You can count service learning hours while working on you self-directed project. Check 
+- Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in a group. Self-directed projects may include up to five students, based on scope and instructor approval. You can count service learning hours while working on you self-directed project. Check [Service Learning](https://aselshall.github.io/gwh/#service-learning-optional).
 
 ### Late Homework Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
@@ -137,13 +137,26 @@ The take-home midterm covers weeks 1–10. You have 48 hours to complete it, tho
 - Study guide: If you can solve the exercises, practice problems, and homework assignments, you will be well-prepared for the exam.  
 - A makeup exam may be provided for students with an [excused absence](#excused-absence-policy).
 
-## [Service Learning (Optional)]
+## Service Learning (Optional)
 
 You have the option to count service learning hours while working on your term project. To qualify, your term project should address a direct or research need for a community partner that is not-for-profit. FGCU can be a community partner. You have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
 - [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
 - [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
     
-Check this [link](https://aselshall.github.io/eds/HW/sl-events) for service learning events including:
+Useful information:
+- Check service learning events including Service-Learning Fair: [Link](https://fgcu.campuslabs.com/engage/organization/servicelearning/events)
+
+Once confirmed with your partner, submit your Service-Learning Form through the Eagle Service Network.
+
+Instructions LINK
+
+Need help tracking your hours? Consider using a service-learning log.  EXAMPLE provided by Dr. Colleen Robb.
+
+Note: September 19th: Last day for graduating seniors to submit their Service-Learning hours.
+
+
+
+
    - [Service-Learning Fair]([https://fgcu.campuslabs.com/engage/event/10670146]):  Tuesday, September 2, 2025 (10am-2pm, Cohen Ballroom)
    - [For Graduating Seniors: Deadline for all service-learning hours](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting) tracked and verified in Eagle Service Network:  September 19, 2025
    - Apply to Fall Community Engagement Showcase at SURI- Application link coming soon!: November
