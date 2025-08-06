@@ -33,7 +33,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 | Introduction: Groundwater importance and challenges - Part 3 | Aug 20, 2025 | Aug 21, 2025         |                                   |  
 | Water budget                                                 | Aug 26, 2025 | Aug 26, 2025         |                                   |  
 
-The example above is worth 60 points: 40 points from four exit tickets and 20 points from two participation questions.
+**Note:** The example above is worth 60 points: 40 points from four exit tickets and 20 points from two participation questions.
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
