@@ -26,11 +26,14 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 #### Log Template
 
-| Video Title                              | Date Watched | Exit Ticket Date | Comments |  
-|---------------------------------------------|------------------|----------------------|--------------|  
-| Introduction: Groundwater importance and challenges - Part 1 | Aug 20, 2025     | Aug 20, 2025         | 1 question answered |  
-| Introduction: Groundwater importance and challenges - Part 2  | Aug 20, 2025    | Aug 21, 2025      |              |  
-| Water budget | Aug 26, 2025     | Aug 26, 2025         |  |  
+| Video Title                                                  | Date Watched | Exit Ticket Date     | Comments                          |  
+|--------------------------------------------------------------|--------------|----------------------|-----------------------------------|  
+| Introduction: Groundwater importance and challenges - Part 1 | Aug 20, 2025 | Aug 20, 2025         | 1 participation question answered |  
+| Introduction: Groundwater importance and challenges - Part 2 | Aug 20, 2025 | Aug 21, 2025         | 1 participation question answered | 
+| Introduction: Groundwater importance and challenges - Part 3 | Aug 20, 2025 | Aug 21, 2025         |                                   |  
+| Water budget                                                 | Aug 26, 2025 | Aug 26, 2025         |                                   |  
+
+The example above is worth 60 points: 40 points from four exit tickets and 20 points from two participation questions.
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
@@ -45,7 +48,8 @@ These are the videos that require exit tickects.
 |------------------------|---------|------------------------------------------------------------------------------|
 | 1. Introduction         | 1      | Groundwater importance and challenges - Part 1        |
 | 1. Introduction         | 2       |Groundwater importance and challenges - Part 2                            |
-| 1. Introduction         | 3       |Water Budget                          |
+| 1. Introduction         | 2       |Groundwater importance and challenges - Part 3                            |
+| 1. Introduction         | 4       |Water Cycle                          |
 | 2. Aquifer Properties   | 1       |Porosity and specific yield                            |
 | 2. Aquifer Properties   | 2       |Darcy’s experiment                            |
 | 2. Aquifer Properties   | 3       |Darcy’s law                            |
