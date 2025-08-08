@@ -40,7 +40,7 @@ You are required to watch and engage with at least 4 presentations as follows:
   - Record using PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) or your preferred software
     - Upload your video to OneDrive and share it in Paper Review discussion post ([follow these instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
     - or upload it to YouTube and share the link.
-  - Record a live YouTube video using OBS software ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared))and share the YouTube link.
+  - Record a live YouTube video using OBS software ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared)) and share the YouTube link.
 - During presentation week:
   - Watch and engage with at least four classmate presentations
   - Ask at least one question per presentation
