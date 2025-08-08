@@ -122,7 +122,21 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 The take-home midterm covers weeks 1–10. You have 48 hours to complete it, though many students finish in under 2 hours. As this is an individual exam, unauthorized help, AI use such as ChatGPT, or sharing your answers with other sutdents will result in a grade of zero for this exam, and full enforcement of [FGCU Academic Integrity Policy](#Policy-for-Academic-Integrity-Violations).
 
 ## Project
-- You are required to complete a project that involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
+You may either complete a class project or propose your own project. Self-proposed projects must be discussed with and approved by the instructor before starting.
+
+#### Class project
+The class project involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
+- Undergraduate students: work in groups of up to 3 students.
+- Graduate students: work individually or in groups of up to 3 students.
+
+#### Self-directed project
+You may propose your own project focused on lab work, field work, or modeling. 
+
+May be individual or in groups of up to 5 students, depending on scope (as approved by the instructor).
+
+Service Learning hours may be counted toward self-directed projects — see Service Learning for details.
+
+- 
 - Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in a group. Self-directed projects may include up to five students, based on scope and instructor approval. You can count service learning hours while working on you self-directed project. Check [Service Learning](https://aselshall.github.io/gwh/#service-learning-optional).
 
 ### Late Homework Policy
