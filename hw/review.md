@@ -36,16 +36,19 @@ Note: You do not need to recite theory or copy formulas except where needed for 
 
 ## Submission and Participation Requirements
 You are required to watch and engage with at least 4 presentations as follows:
-- Before presentation week: Record your presentation and upload it to Canvas. You may choose one of the following methods:
-  - Record using PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) or your preferred software
-    - Upload your video to OneDrive and share it in Paper Review discussion post ([follow these instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
-    - or upload it to YouTube and share the link.
+1. Before presentation week:
+- Record your presentation and share your video link in Paper Review discussion post on Canvas.
+- Do not upload the video directly on Canvas, but only share the video link. You may choose one of the following methods:
   - Record a live YouTube video using OBS software ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared)) and share the YouTube link.
-- During presentation week:
+  - Record using PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) or your preferred software
+    - Upload the video to YouTube and share the link,
+    - or upload your video to OneDrive and share the YouTube link ([following these instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
+  
+2. During presentation week:
   - Watch and engage with at least four classmate presentations
   - Ask at least one question per presentation
   - Prioritize unanswered questions or those with fewer than four responses
-- After presentation week:
+3. After presentation week:
   - Respond to all questions you receive
   - Complete and submit the grading rubric for each presentation you reviewed
 
