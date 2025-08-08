@@ -36,6 +36,7 @@ Note: You do not need to recite theory or copy formulas except where needed for 
 
 ## Submission and Participation Requirements
 You are required to watch and engage with at least 4 presentations as follows:
+
 1. Before presentation week:
     - Record your presentation and share your video link in Paper Review discussion post on Canvas.
     - Do not upload the video directly on Canvas, but only share the video link. You may choose one of the following methods:
