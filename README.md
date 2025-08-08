@@ -12,7 +12,7 @@ CRN: EGN 4930 – [87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetai
 CRN: EGN 5932C – [86679](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=86679)   
 Credit hours: 3     
 Class: Online - Asynchronous       
-Exam: Final Presentation and Report
+Final Exam: Term Project Report
 
 ## Instructor
 Ahmed S. Elshall, PhD  
@@ -22,9 +22,6 @@ U.A. Whitaker College of Engineering Joint Appointment with The Water School
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
 Office Hours : Tuesday 9:00 AM – 12:00 PM and by appointment using [this link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
-
-## Resources
-[Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. 
 
 ## Course Description
 
@@ -51,7 +48,7 @@ By the end of this course, students will be able to:
 ## Recommended Textbooks
 Recommended textbooks provide in-depth coverage of the course topics, if you wish to read further and strengthen your understanding.
 - Fetter, C.W. and Kreamer, D. (2022), Applied Hydrogeology, 5th Edition, Waveland Press, Inc., Long Grove
-- The Groundwater Project: [Link](https://gw-project.org/books)
+- [The Groundwater Project](https://gw-project.org/books)
   - Woessner, W.W. & Poeter, E.P. (2020). Hydrogeologic Properties of Earth Materials and Principles of Groundwater Flow. The Groundwater Project. [https://doi.org/10.21083/978-1-7770541-2-0](https://doi.org/10.21083/978-1-7770541-2-0)
   - Cohen, A.J.B. & Cherry, J.A, (2020). Conceptual and Visual Understanding of Hydraulic Head and Groundwater Flow. The Groundwater Project. [https://doi.org/10.21083/978-1-7770541-6-8](https://doi.org/10.21083/978-1-7770541-6-8)
   - Woessner, W. W., Stringer, A. C. & Poeter, E.P. (2023). An introduction to hydraulic testing in hydrogeology: Basic pumping, slug, and packer methods. The Groundwater Project. [https://doi.org/10.21083/978-1-77470-090-7](https://doi.org/10.21083/978-1-77470-090-7)
@@ -60,7 +57,7 @@ Recommended textbooks provide in-depth coverage of the course topics, if you wis
 The instructor will specify relevant chapters from Fetter (not free) and their corresponding chapters from the Groundwater Project books (free). Students do not need both—either source can be used to cover the same material, depending on preference and access.
 
 ## Course Schedule
-> These topics and dates are tentative and subject to change based on class progress.
+> These topics and dates including midterm exam date are tentative and subject to change based on class progress.
 > Due dates are tentative; actual deadlines will be posted on canvas. 
 
 | Week | Date (From - To)     | Topic                                                                                       | Book Chapters  | Due Date |
@@ -87,7 +84,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 
 ## Assessment and Grading
 
-### Grading scale
+### Grading Scale
 
 > The instructor may elect to employ a curve that favors the students.
 
@@ -137,17 +134,21 @@ A comprehensive midterm exam will be conducted online.
 ## Project
 You need to either complete a class project or propose your own project. Self-proposed projects must be discussed with and approved by the instructor before starting.
 
-#### Class project
+#### Class Project
 The class project involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
 - Undergraduate students: work in groups of up to 3 students.
 - Graduate students: work individually or in groups of up to 3 students.
 
-#### Self-directed project
+#### Self-Directed Project
 You may propose your own project focused on lab work, field work, or modeling. 
 - May be individual or in groups of up to 5 students, depending on scope as discussed with and approved by the instructor.
 - For undergraduate students, service Learning hours may be counted toward self-directed projects — see [Service Learning for details](https://aselshall.github.io/gwh/#service-learning-optional).
 - For graduate students,
 check current [externally funded groundwater projects at FGCU](https://aselshall.github.io/gwh/#opportunities-at-fgcu) and contact instructor for research assistant opportunities
+
+#### Resources
+[Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. 
+
 
 ## Service Learning (Optional)
 
@@ -177,7 +178,7 @@ To count service learning hours, follow these steps:
   - Send professional message to community partner to express gratitude, summarize work and hours, and request hour approval    
   - Submit aproved hours to ESN and submit screenshot to Canvas for verification 
 
-### Late Homework Policy
+## Late Homework Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
