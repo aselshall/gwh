@@ -49,9 +49,14 @@ By the end of this course, students will be able to:
 - Develop and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
 
 ## Recommended Textbooks
+Recommended textbooks provide in-depth coverage of the course topics, if you wish to read further and strengthen your understanding.
 - Fetter, C.W. and Kreamer, D. (2022), Applied Hydrogeology, 5th Edition, Waveland Press, Inc., Long Grove
-- The Groundwater Project: [Link](https://gw-project.org/books)
+- The Groundwater Project (free books): [Link](https://gw-project.org/books)
+  - Woessner, W.W. & Poeter, E.P. (2020). Hydrogeologic Properties of Earth Materials and Principles of Groundwater Flow. The Groundwater Project. [https://doi.org/10.21083/978-1-7770541-2-0](https://doi.org/10.21083/978-1-7770541-2-0)
+  - Cohen, A.J.B. & Cherry, J.A, (2020). Conceptual and Visual Understanding of Hydraulic Head and Groundwater Flow. The Groundwater Project. [https://doi.org/10.21083/978-1-7770541-6-8](https://doi.org/10.21083/978-1-7770541-6-8)
+  - Winston, R.B. (2023). Getting Started with MODFLOW. The Groundwater Project. [https://doi.org/10.21083/978-1-77470-030-3](https://doi.org/10.21083/978-1-77470-030-3)
 
+The instructor will specify relevant chapters from Fetter (not free) and their corresponding chapters from the Groundwater Project books (free). Students do not need both—either source can be used to cover the same material, depending on preference and access.
 
 ## Course Schedule
 > These topics and dates are tentative and subject to change based on class progress.
@@ -96,9 +101,9 @@ By the end of this course, students will be able to:
 ### Assessment Plan (100%)
 
 - Participation – 10%  
-- Homework – 30%  
+- Homework – 20%  
 - Midterm – 30%  
-- Project – 20%  
+- Project – 30%  
 - Paper Review – 10%
 
 ### General Notes
@@ -109,20 +114,27 @@ By the end of this course, students will be able to:
 
 ## Participation
 
-For participation assessment, students are expected to:
-- Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/gwh/hw/participation)
-- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
+For participation assessment, students are expected to watch recorded videos and complete:
+- participation activities,
+- exit tickets,
+- and [participation log](https://aselshall.github.io/gwh/hw/participation)
 
 These form the majority of your participation grade.  
 
 ## Homework
-A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS. Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
+A weekly homework will be posted on Canvas. 
+- Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS.
+- Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
 
 ## Midterm Exam
-The take-home midterm covers weeks 1–10. You have 48 hours to complete it, though many students finish in under 2 hours. As this is an individual exam, unauthorized help, AI use such as ChatGPT, or sharing your answers with other sutdents will result in a grade of zero for this exam, and full enforcement of [FGCU Academic Integrity Policy](#Policy-for-Academic-Integrity-Violations).
+A comprehensive midterm exam will be conducted online.
+- You will have 24 hours to complete the exam, which will include approximately 10 multiple-choice questions testing qualitative understanding, and about five problems focused on problem-solving.  
+- Study guide: If you can solve the practice problems in the slides, participation activities and homework assignments, you will be well-prepared for the exam.  
+- As this is an individual exam, unauthorized help, AI use such as ChatGPT, or sharing your answers with other sutdents will result in a grade of zero for this exam, and full enforcement of [FGCU Academic Integrity Policy](#Policy-for-Academic-Integrity-Violations).
+- A makeup exam may be provided for students with an [excused absence](#excused-absence-policy).
 
 ## Project
-You may either complete a class project or propose your own project. Self-proposed projects must be discussed with and approved by the instructor before starting.
+You need to either complete a class project or propose your own project. Self-proposed projects must be discussed with and approved by the instructor before starting.
 
 #### Class project
 The class project involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
@@ -131,41 +143,26 @@ The class project involves analyzing field data to set up and calibrate groundwa
 
 #### Self-directed project
 You may propose your own project focused on lab work, field work, or modeling. 
-
-May be individual or in groups of up to 5 students, depending on scope (as approved by the instructor).
-
-Service Learning hours may be counted toward self-directed projects — see Service Learning for details.
-
-- 
-- Alternatively, you may propose your own project focused on labwork, fieldwork or modeling, subject to instructor approval before beginning. Graduate students may work individually or in a group. Self-directed projects may include up to five students, based on scope and instructor approval. You can count service learning hours while working on you self-directed project. Check [Service Learning](https://aselshall.github.io/gwh/#service-learning-optional).
-
-### Late Homework Policy
-- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
-- Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
-- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
-- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
-
-## Exam
-- A comprehensive midterm exam will be conducted online.
-- You will have 24 hours to complete the exam, which will include approximately 10 multiple-choice questions testing qualitative understanding, and about five problems focused on problem-solving.  
-- Study guide: If you can solve the exercises, practice problems, and homework assignments, you will be well-prepared for the exam.  
-- A makeup exam may be provided for students with an [excused absence](#excused-absence-policy).
+- May be individual or in groups of up to 5 students, depending on scope as discussed with and approved by the instructor.
+- For undergraduate students, service Learning hours may be counted toward self-directed projects — see [Service Learning for details](https://aselshall.github.io/gwh/#service-learning-optional).
+- For graduate students,
+check current [externally funded groundwater projects at FGCU](https://aselshall.github.io/gwh/#opportunities-at-fgcu) and contact instructor for research assistant opportunities
 
 ## Service Learning (Optional)
 
 You have the option to count service learning hours while working on your term project. To qualify, your term project should address a direct or research need for a community partner that is not-for-profit. FGCU can be a community partner. 
 
-#### Opportunities at FGCU
+#### Service Learning Opportunities at FGCU
 You have the opportunity to engage in two active EPA-funded projects including fieldwork and modeling:
 - [Groundwater climate resiliency in South Florida](https://mewcha1.github.io/NBI)
 - [Nutrient and pesticide fate and transport in Southwest Florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
     
-#### Useful Information
+#### Service Learning Useful Information
 - Check service learning events including Service-Learning Fair: [Events Link](https://fgcu.campuslabs.com/engage/organization/servicelearning/events)
 - Once confirmed with your partner, submit your Service-Learning Form through the Eagle Service Network: [Instructions Link](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting)
 - Note: September 19th: Last day for graduating seniors to submit their Service-Learning hours.
 
-#### Action Steps
+#### Service Learning Action Steps
 To count service learning hours, follow these steps:
 - Step 1 Preparation:
   - Identify a **not-for-profit** community partner and plan your project with them.
@@ -179,6 +176,11 @@ To count service learning hours, follow these steps:
   - Send professional message to community partner to express gratitude, summarize work and hours, and request hour approval    
   - Submit aproved hours to ESN and submit screenshot to Canvas for verification 
 
+### Late Homework Policy
+- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
+- Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
+- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
+- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## Execused Absence Policy
 - Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
