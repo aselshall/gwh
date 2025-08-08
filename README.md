@@ -51,7 +51,7 @@ By the end of this course, students will be able to:
 ## Recommended Textbooks
 Recommended textbooks provide in-depth coverage of the course topics, if you wish to read further and strengthen your understanding.
 - Fetter, C.W. and Kreamer, D. (2022), Applied Hydrogeology, 5th Edition, Waveland Press, Inc., Long Grove
-- The Groundwater Project (free books): [Link](https://gw-project.org/books)
+- The Groundwater Project: [Link](https://gw-project.org/books)
   - Woessner, W.W. & Poeter, E.P. (2020). Hydrogeologic Properties of Earth Materials and Principles of Groundwater Flow. The Groundwater Project. [https://doi.org/10.21083/978-1-7770541-2-0](https://doi.org/10.21083/978-1-7770541-2-0)
   - Cohen, A.J.B. & Cherry, J.A, (2020). Conceptual and Visual Understanding of Hydraulic Head and Groundwater Flow. The Groundwater Project. [https://doi.org/10.21083/978-1-7770541-6-8](https://doi.org/10.21083/978-1-7770541-6-8)
   - Winston, R.B. (2023). Getting Started with MODFLOW. The Groundwater Project. [https://doi.org/10.21083/978-1-77470-030-3](https://doi.org/10.21083/978-1-77470-030-3)
