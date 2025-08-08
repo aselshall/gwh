@@ -19,7 +19,7 @@ You need to select one paper.
 - For papers outside this list, obtain instructor approval.
 
 ## Presentation Content
-Prepare a 30-minute presentation covering these three components:
+Prepare a 25-minute presentation covering these three components:
 1. Paper Overview
     - Dataset characteristics
     - Study objectives and hypotheses
