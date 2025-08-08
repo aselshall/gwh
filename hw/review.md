@@ -27,10 +27,30 @@ Third, you should clearly discuss with the class the topics that you still need 
 
 You do NOT have to recite theory or copy formulas except to the extent that is necessary to answer abovementioned questions. The objectives of this reading assignment is to challenge you, stretch your mental capabilities, and display the applications of what we covered in the class. It also helps you to decide on what you want to learn next.
 
-(3) Presentation Rubric
+## Presentation Rubric
 
 The paper review counts as 10% toward your final grade.  You do not need to submit a review report. Your grade will be based on your presentation. Prepare you presentation to give room for at least one question. Note, to have good figure legibility, you can download the figure from the web version of the paper (instead of using the image capture feature in the pdf software). Here is the presentation rubric Presentation Rubric.docx 
 
-(4) Submission
+## Submission
+You are required to watch and engage with at least 4 presentations, but you can of course watch and engage with as many of them as you like.
+- Before presentation week: Record your presentation and upload to canvas
+- During presntation week: Watch at least 4 videos of your classmate presentations and ask at least one question per presentation
+- During and after the presentation week: Respond to all questions that you get
+- After the presentation week: Fillout the grading rubric for each presentation you watched and submit to Canvas
+- To ensure that all presentations get at least for reviewers, conduct your review for presentations that have less than for questions first
 
-Please upload your powerpoint presentation to canvas at least 30 minutes before class. 
+## Grading
+- Presentation: 12 points
+  - See presentation rubric for details
+- Participation: 4 points 
+  - Asking at least four questions (2 points)
+  - Answering at least four questions (2 points)
+- Peer-Evalaution: 4 points
+  - 1 point per submited grading rubic with 0.4 points for qunatiative responses (Question 1 - 4) and 0.6 points for meaning qualitative reponse (Question 5)
+  - Zero point will be assigned for non-seriours reponses (e.g., given the fullmark for all questions and all students)
+- 
+
+
+
+The paper review counts as 10% toward your final grade.  You do not need to submit a review report. Your grade will be based on your presentation. Prepare you presentation to give room for at least one question. Note, to have good figure legibility, you can download the figure from the web version of the paper (instead of using the image capture feature in the pdf software). Here is the presentation rubric Presentation Rubric.docx 
+
