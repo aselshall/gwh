@@ -42,7 +42,7 @@ You are required to watch and engage with at least 4 presentations as follows:
   - Record a live YouTube video using OBS software ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared)) and share the YouTube link.
   - Record using PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) or your preferred software
     - Upload the video to YouTube and share the link,
-    - or upload your video to OneDrive and share the YouTube link ([following these instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
+    - or upload your video to OneDrive and share the YouTube link [following these instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx)
   
 2. During presentation week:
   - Watch and engage with at least four classmate presentations
