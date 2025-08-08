@@ -58,7 +58,7 @@ You are required to watch and engage with at least 4 presentations as follows:
 
 The paper review counts as 10% toward your final grade. You do not need to submit a review report. Your grade will be based on your presentation and participation activities as follows. 
 - Presentation (12 points)
-  - Evaluated per the [Presentation Rubric](https://github.com/aselshall/gwh/blob/main/hw/Presentation%20Rubric.docx)
+  - Evaluated according to the [Presentation Rubric](https://github.com/aselshall/gwh/blob/main/hw/Presentation%20Rubric.docx)
 - Participation (4 points)
   - Ask one question for each of the four presentations (2 points)
   - Answer at least four questions (2 points)
