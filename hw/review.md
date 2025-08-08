@@ -39,7 +39,8 @@ You are required to watch and engage with at least 4 presentations as follows:
 
 1. Before presentation week:
     - Record your presentation and share your video link in Paper Review discussion post on Canvas.
-    - Do not upload the video directly on Canvas, but only share the video link. You may choose one of the following methods:
+    - Do not upload the video directly on Canvas (because Canvas will not accept the large video), but only share the video link.
+    - You may choose one of the following methods:
         - Record a live YouTube video using OBS software ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared)) and share the YouTube link.
         - Record using PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) or your preferred software
             - Upload the video to YouTube and share the link,
