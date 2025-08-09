@@ -47,11 +47,11 @@ These are the videos that require exit tickects.
 
 | Module                  | Video #| Video Title                                     |
 |-------------------------|--------|-------------------------------------------------|
-| 0. Getting Started      |        |Getting started                                  |
-| 1. Introduction         | 1      |Groundwater importance and challenges - Part 1   |
-| 1. Introduction         | 2      |Groundwater importance and challenges - Part 2   |
-| 1. Introduction         | 2      |Groundwater importance and challenges - Part 3   |
-| 1. Introduction         | 4      |Water Cycle                                      |
+| 0. Getting Started      | 1      |Getting started                                  |
+| 1. Introduction         | 2      |Groundwater importance and challenges - Part 1   |
+| 1. Introduction         | 3      |Groundwater importance and challenges - Part 2   |
+| 1. Introduction         | 4      |Groundwater importance and challenges - Part 3   |
+| 1. Introduction         | 5      |Water Cycle                                      |
 | 2. Aquifer Properties   | 1      |Porosity and specific yield                      |
 | 2. Aquifer Properties   | 2      |Darcy’s experiment and Darcy’s law               |
 | 2. Aquifer Properties   | 3      |Unconfined and confined aquifers                 |
