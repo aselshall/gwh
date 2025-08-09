@@ -82,7 +82,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 14   | 17-Nov - 23-Nov      | Groundwater modeling: Model calibration<br>Groundwater modeling: Model application          | 13             | HW14 |
 | 15   | 24-Nov - 25-Nov      | Special Topic: Mass transport of solutes                                                    | 10             |      |
 | 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                          |                | HW15 |
-| 16   | 01-Dec - 07-Dec      | Presentation of the paper review                                                            |                | Project Report |
+| 16   | 01-Dec - 07-Dec      | Presentation of the [paper review](https://aselshall.github.io/gwh/hw/review)               |                | Project Report |
 
 ## Assessment and Grading
 
@@ -150,6 +150,9 @@ You may propose your own project focused on lab work, field work, or modeling.
 #### Resources
 [Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources. 
 
+## Paper Review
+
+You will select, review, and present one paper to the class. In addition, you will serve as a judge for four presentations, providing constructive and meaningful feedback to the presenters. For complete instructions, grading details, and submission requirements, see the [Paper Review Assignment](https://aselshall.github.io/gwh/hw/review). 
 
 ## Service Learning (Optional)
 
