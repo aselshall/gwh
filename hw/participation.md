@@ -28,12 +28,13 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 | Video Title                                                  | Date Watched | Exit Ticket Date     | Comments                          |  
 |--------------------------------------------------------------|--------------|----------------------|-----------------------------------|  
+| Getting started                                              | Aug 20, 2025 | Aug 20, 2025         |                                   |
 | Introduction: Groundwater importance and challenges - Part 1 | Aug 20, 2025 | Aug 20, 2025         | 1 participation question answered<br> 1 response to classmate post |  
 | Introduction: Groundwater importance and challenges - Part 2 | Aug 20, 2025 | Aug 21, 2025         | 1 participation question answered<br> 1 response to classmate post | 
 | Introduction: Groundwater importance and challenges - Part 3 | Aug 20, 2025 | Aug 21, 2025         |                                   |  
 | Water budget                                                 | Aug 26, 2025 | Aug 26, 2025         |                                   |  
 
-**Note:** The example above is worth 80 points: 40 points for four exit tickets, 20 points for two participation question answered, and 20 points for two responses to classmate posts
+**Note:** The example above is worth 90 points: 50 points for five exit tickets, 20 points for two participation question answered, and 20 points for two responses to classmate posts
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
@@ -44,8 +45,9 @@ After each video, reflect and submit your exit ticket by responding to participa
 ### Videos
 These are the videos that require exit tickects.
 
-| Module                 | Video # | Video Title                                     |
-|------------------------|---------|-------------------------------------------------|
+| Module                  | Video #| Video Title                                     |
+|-------------------------|--------|-------------------------------------------------|
+| 0. Getting Started      |        |Getting started                                  |
 | 1. Introduction         | 1      |Groundwater importance and challenges - Part 1   |
 | 1. Introduction         | 2      |Groundwater importance and challenges - Part 2   |
 | 1. Introduction         | 2      |Groundwater importance and challenges - Part 3   |
