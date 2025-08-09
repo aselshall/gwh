@@ -18,6 +18,8 @@ You need to select one paper.
 - Requirement: The paper must have a groundwater component.
 - For papers outside this list, obtain instructor approval.
 
+**Note**: For long reports (e.g., USGS reports) or lengthy book chapters (e.g., Hydrogeology of Florida), you may review only a selected portion—quality of analysis is more important than covering the entire document.
+
 ## Presentation Content
 Prepare a 25-minute presentation covering these three components:
 1. Paper Overview
