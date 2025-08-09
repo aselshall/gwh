@@ -66,8 +66,8 @@ The paper review counts as 10% toward your final grade. You do not need to subm
   - Answer at least four questions (2 points)
 - Peer Evaluation (4 points)
   - 1 point per submitted grading rubric
-    - 0.4 points: Quantitative responses (Questions 1–4)
-    - 0.6 points: Meaningful qualitative response (Question 5)
+    - 0.5 points: Quantitative responses (Questions 1–3)
+    - 0.5 points: Meaningful qualitative response (Question 4)
   - No credit for superficial responses (e.g., giving full marks to all questions for all students)
 - Late Submissions:
   - Follow the course [late submission policy](https://aselshall.github.io/gwh/#late-homework-policy)
