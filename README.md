@@ -64,7 +64,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 
 | Week | Date (From - To)     | Topic                                                                                       | Book Chapters  | Due Date |
 |------|----------------------|---------------------------------------------------------------------------------------------|----------------|----- |
-| 1    | 18-Aug - 24-Aug      | Course introduction <br> Groundwater importance and challenges <br> Remedation Case Study <br> Groundwater sustainability (optional)                      | 1 & 2          | HW1  |
+| 1    | 18-Aug - 24-Aug      | Course introduction <br> Groundwater importance and challenges                             | 1 & 2          | HW1  |
 | 2    | 25-Aug - 31-Aug      | Water budget <br>Porosity and specific yield                                                | 1 & 2<br>3 & 8 | HW2  | 
 | 2    | Monday 01-Sep        | Labor Day Observed (no classes)                                                             |                |      |
 | 3    | 01-Sep - 07-Sep      | Darcy’s experiment and Darcy’s law <br> Measuring hydraulic conductivity                    | 3 & 8          | HW3  |
