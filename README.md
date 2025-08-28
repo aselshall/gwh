@@ -69,7 +69,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 2    | Monday 01-Sep        | Labor Day Observed (no classes)                                                             |                |      |
 | 3    | 01-Sep - 07-Sep      | Darcy’s experiment and Darcy’s law <br> Measuring hydraulic conductivity                    | 3 & 8          | HW3  |
 | 4    | 08-Sep - 14-Sep      | Unconfined and confined aquifers <br> Aquifer storage                                       | 3 & 8          | HW4  |
-| 5    | 15-Sep - 21-Sep      | Variation of hydraulic conductivity  <br> Applications of Darcy’s law                       | 3 & 8          | HW5  |
+| 5    | 15-Sep - 21-Sep      | Variation of hydraulic conductivity <br> Variation of hydraulic gradient <br> Application of Darcy’s law                       | 3 & 8          | HW5  |
 | 6    | 22-Sep - 28-Sep      | Hydraulic head principles                                                                   | 4              | HW6  |
 | 7    | 29-Sep - 05-Oct      | Visual understanding of hydraulic head <br> Validity of Darcy’s law                         | 4              | HW7  |
 | 8    | 06-Oct - 12-Oct      | Groundwater flow equations <br>Solutions of groundwater flow equations                      | 4              | HW8  |
