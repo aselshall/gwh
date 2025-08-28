@@ -63,5 +63,18 @@ These are the videos that require exit tickects.
 | 3. Principles of Groundwater Flow | 2      |To be announced                        |
 | 3. Principles of Groundwater Flow | 3      |To be announced                        |
 | 3. Principles of Groundwater Flow | 4      |To be announced                        |
-| ...                               | ...    |...                                              |
+| 4. Well hydraulics                | 1      |To be announced                        |
+| 4. Well hydraulics                | 2      |To be announced                        |
+| 4. Well hydraulics                | 3      |To be announced                        |
+| 4. Well hydraulics                | 4      |To be announced                        |
+| 5. Field methods                  | 1      |To be announced                        |
+| 5. Field methods                  | 2      |To be announced                        |
+| 5. Field methods                  | 3      |To be announced                        |
+| 5. Field methods                  | 4      |To be announced                        |
+| 6. Groundwater flow modeling      | 1      |To be announced                        |
+| 6. Groundwater flow modeling      | 2      |To be announced                        |
+| 6. Groundwater flow modeling      | 3      |To be announced                        |
+| 6. Groundwater flow modeling      | 4      |To be announced                        |
+| 7. Solute transport               | 1      |To be announced                        |
+| ...                               | ...    |...                                    |
 
