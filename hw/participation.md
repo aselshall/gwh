@@ -45,17 +45,23 @@ After each video, reflect and submit your exit ticket by responding to participa
 ### Videos
 These are the videos that require exit tickects.
 
-| Module                  | Video #| Video Title                                     |
-|-------------------------|--------|-------------------------------------------------|
-| 0. Getting Started      | 1      |Getting started                                  |
-| 1. Introduction         | 2      |Groundwater importance and challenges - Part 1   |
-| 1. Introduction         | 3      |Groundwater importance and challenges - Part 2   |
-| 1. Introduction         | 4      |Groundwater importance and challenges - Part 3   |
-| 1. Introduction         | 5      |Water Cycle                                      |
-| 2. Aquifer Properties   | 1      |Porosity and specific yield                      |
-| 2. Aquifer Properties   | 2      |Darcy’s experiment and Darcy’s law               |
-| 2. Aquifer Properties   | 3      |Unconfined and confined aquifers                 |
-| 2. Aquifer Properties   | 5      |Aquifer storage                                  |
-| 2. Aquifer Properties   | 6      |Variation of hydraulic conductivity              |
-| 2. Aquifer Properties   | 7      |Application of Darcy’s Law                       |
-| ...                     | ...    |...                                              |
+| Module                            | Video #| Video Title                                     |
+|-----------------------------------|--------|-------------------------------------------------|
+| 0. Getting Started                | 1      |Getting started                                  |
+| 1. Introduction                   | 1      |Groundwater importance and challenges - Part 1   |
+| 1. Introduction                   | 2      |Groundwater importance and challenges - Part 2   |
+| 1. Introduction                   | 3      |Groundwater importance and challenges - Part 3   |
+| 1. Introduction                   | 4      |Water Cycle                                      |
+| 2. Properties of Aquifers         | 1      |Porosity and specific yield                      |
+| 2. Properties of Aquifers         | 2      |Darcy’s experiment and Darcy’s law               |
+| 2. Properties of Aquifers         | 3      |Unconfined and confined aquifers                 |
+| 2. Properties of Aquifers         | 5      |Aquifer storage                                  |
+| 2. Properties of Aquifers         | 6      |Variation of hydraulic conductivity              |
+| 2. Properties of Aquifers         | 7      |Variation of hydraulic gradient                  |
+| 3. Principles of Groundwater Flow | 8      |Application of Darcy’s Law                       |
+| 3. Principles of Groundwater Flow | 1      |To be announced                        |
+| 3. Principles of Groundwater Flow | 2      |To be announced                        |
+| 3. Principles of Groundwater Flow | 3      |To be announced                        |
+| 3. Principles of Groundwater Flow | 4      |To be announced                        |
+| ...                               | ...    |...                                              |
+
