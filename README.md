@@ -83,6 +83,8 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 15   | 24-Nov - 25-Nov      | Special Topic: Mass transport of solutes                                                    | 10             |      |
 | 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                          |                | HW15 |
 | 16   | 01-Dec - 07-Dec      | Presentation of the [paper review](https://aselshall.github.io/gwh/hw/review)               |                | Project Report |
+| 17   | 08-Dec - 12-Ded      | Finals week - No Final Exam                                                                 |                |      |
+
 
 ## Assessment and Grading
 
