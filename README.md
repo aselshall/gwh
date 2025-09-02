@@ -82,7 +82,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 14   | 17-Nov - 23-Nov      | Groundwater modeling: Model calibration<br>Groundwater modeling: Model application          | 13             | HW14 |
 | 15   | 24-Nov - 25-Nov      | Special Topic: Mass transport of solutes                                                    | 10             |      |
 | 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                          |                | HW15 |
-| 16   | 01-Dec - 07-Dec      | Presentation of the [paper review](https://aselshall.github.io/gwh/hw/review)               |                | Project Report |
+| 16   | 01-Dec - 07-Dec      | Presentation of the [Paper Review](https://aselshall.github.io/gwh/hw/review)               |                | Project Report |
 | 17   | 08-Dec - 12-Ded      | Finals week - No Final Exam                                                                 |                |      |
 
 
