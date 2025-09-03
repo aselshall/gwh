@@ -5,7 +5,8 @@ Fall 2025
 Last updated: Aug 8, 2025
 
 Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg)
- 
+Surface Water-Groundwater Field Lab: [Link](https://aselshall.github.io/gwh/lab)
+
 ## Course Information
 Course: EGN 4930/5932C ST: Groundwater Hydrology   
 CRN: EGN 4930 – [87245](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202508&crn=87245)  
