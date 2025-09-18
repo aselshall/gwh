@@ -65,20 +65,20 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 
 | Week | Date (From - To)     | Topic                                                                                       | Book Chapters  | Due Date |
 |------|----------------------|---------------------------------------------------------------------------------------------|----------------|----- |
-| 1    | 18-Aug - 24-Aug      | Getting started <br> Groundwater importance and challenges                                  | 1 & 2 | HW1  |
+| 1    | 18-Aug - 24-Aug      | - Getting started <br> - Groundwater importance and challenges                                  | 1 & 2 | HW1  |
 | 2    | 25-Aug - 31-Aug      | - Water budget <br>- Porosity and specific yield                                                | 1 & 2<br>3 & 8 | HW2  | 
 | 2    | Monday 01-Sep        | Labor Day Observed (no classes)                                                             |      |      |
 | 3    | 01-Sep - 07-Sep      | - Darcy’s experiment and Darcy’s law <br> - Measuring hydraulic conductivity                    | 3 & 8 | HW3  |
 | 4    | 08-Sep - 14-Sep      | - Unconfined and confined aquifers <br> - Aquifer storage                                       | 3 & 8  | HW4  |
 | 5    | 15-Sep - 21-Sep      | - Variation of hydraulic conductivity <br> - Variation of hydraulic gradient <br> - Application of Darcy’s law  | 3 & 8 | HW5  |
-| 6    | 22-Sep - 28-Sep      | Hydraulic head principles                                                                   | 4  | HW6  |
-| 7    | 29-Sep - 05-Oct      | Groundwater flow equations                                                                  | 4   | HW7  |
+| 6    | 22-Sep - 28-Sep      | - Hydraulic head principles                                                                   | 4  | HW6  |
+| 7    | 29-Sep - 05-Oct      | - Groundwater flow equations                                                                  | 4   | HW7  |
 | 8    | 06-Oct - 12-Oct      | - Aquifer response to pumping <br>- Steady-state drawdown <br>- Transient drawdown          | 5 | HW8  |
 | 9    | 13-Oct - 19-Oct      | Pumping test                                                                                | 5  | HW9  |
 | 10   | 20-Oct - 26-Oct      | - Electrical resistivity imaging <br>- Hydrogeologic site characterization                  | 12  | HW10 <br>Midterm exam|
-| 11   | 27-Oct - 02-Nov      | Groundwater modeling: Model setup                                                           | 12  | HW11 |
-| 12   | 03-Nov - 09-Nov      | Groundwater modeling: Model calibration                                                     | 13  | HW12 |  
-| 13   | 10-Nov - 16-Nov      | Groundwater modeling: Model application                                                     | 13  | HW13 |
+| 11   | 27-Oct - 02-Nov      | - Groundwater modeling: Model setup                                                           | 12  | HW11 |
+| 12   | 03-Nov - 09-Nov      | - Groundwater modeling: Model calibration                                                     | 13  | HW12 |  
+| 13   | 10-Nov - 16-Nov      | - Groundwater modeling: Model application                                                     | 13  | HW13 |
 | 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                  |     |      |
 | 14   | 17-Nov - 23-Nov      | Special Topic: Mass transport of solutes                                                    | 10  | HW14 |
 | 15   | 24-Nov - 25-Nov      | Project day                                                                                 |     |      |
