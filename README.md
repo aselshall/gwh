@@ -74,7 +74,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 6    | 22-Sep - 28-Sep      | - Hydraulic head principles                                                                   | 4  | HW6  |
 | 7    | 29-Sep - 05-Oct      | - Groundwater flow equations                                                                  | 4   | HW7  |
 | 8    | 06-Oct - 12-Oct      | - Aquifer response to pumping <br>- Steady-state drawdown <br>- Transient drawdown          | 5 | HW8  |
-| 9    | 13-Oct - 19-Oct      | Pumping test                                                                                | 5  | HW9  |
+| 9    | 13-Oct - 19-Oct      | - Pumping test                                                                                | 5  | HW9  |
 | 10   | 20-Oct - 26-Oct      | - Electrical resistivity imaging <br>- Hydrogeologic site characterization                  | 12  | HW10 <br>Midterm exam|
 | 11   | 27-Oct - 02-Nov      | - Groundwater modeling: Model setup                                                           | 12  | HW11 |
 | 12   | 03-Nov - 09-Nov      | - Groundwater modeling: Model calibration                                                     | 13  | HW12 |  
