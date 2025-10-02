@@ -1,4 +1,4 @@
-# [Term Project: Groundwater Supply Design](https://aselshall.github.io/gwh/hw/project)
+# [Term Project: Municipal Water Supply Desgin](https://aselshall.github.io/gwh/hw/project)
 
 *Modified from Finkel, M. (2008), Environmental Modelling 1 Lecture Notes, University of Tuebingen, Tuebingen.*
 
@@ -80,12 +80,12 @@ Calibrate the groundwater flow model such that the heads simulated at the 12 obs
 ### 2.3 Model Application (30 points)
 Do any of the following two design problems.
 
-#### 2.3.1 Municipal Water Supply Desgin: Nature-based Infrastructure
+#### 2.3.1 Municipal Water Supply Desgin: Nature-based Infrastructure for Mitigating the Impacts of a Planned Industrual Area
 It is planned to install a municipal water supply well half way between observation well B10 and the river.  Also, a new industrial area is planned in the study area as show in Fig. 3 resulting in a complete sealing of the surface. For each of the following scenarios, what is the maximum rate of water than can be pumped if the drawdown of the water table should not exceed 1 m at any of the observation wells?
 
 - Scenario 1: This is the pre-development condition without the industrial area.
 - Scenario 2:  This scenario is the post-development condition with the industrial area. Industrial area is assumed to completely seal the surface, meaning no water recharge occurs below it.
-- Scenario 3:  This scenario also represents the post-development condition with the industrial area, but with mitigation measures. Low-impact development (also known as nature-based solutions) are proposed to mitigate the impact of the development. A well-designed permeable pavement system over the industrial area given reasonable soil and climate conditions is estimated to result in 30% recharge relative to the original recharge (i.e., 0.8 mm/day). The remaining water will be collected and infiltrated along the Eastern side of the industrial area using stormwater ponds as shown in Fig.3. This is expected to result in an additional 50% recharge relative to the original recharge in the industrial area (i.e., 0.8 mm/day). In the report clearly state the new recharge values in the industrial area and infiltration area. Also, what recommendation would you give with respect to the location of the infiltration area. You can support your recommendation with a model simulation for bonus points.
+- Scenario 3:  This scenario also represents the post-development condition with the industrial area, but with mitigation measures. Low-impact development (also known as nature-based solutions) are proposed to mitigate the impact of the development. A well-designed permeable pavement system over the industrial area given reasonable soil and climate conditions is estimated to result in 30% recharge relative to the original recharge (i.e., 0.8 mm/day). The remaining water will be collected and infiltrated along the Eastern side of the industrial area using stormwater ponds as shown in Fig.3. This is expected to result in an additional 50% recharge relative to the original recharge in the industrial area (i.e., 0.8 mm/day). In the report clearly state the new recharge values in the industrial area and infiltration area. Also, what recommendation would you give with respect to the location of the infiltration area. Support your recommendation with a model simulation.
  
 For each scenario:
 - Show the changes in hydraulic head distribution relative to the baseline scenario (i.e., calibrated model without pumping and without the industrial area).
@@ -102,7 +102,15 @@ Discuss your results given the information provided in [Elshall et al. 2020](htt
 It is planned to install a water supply well half way between observation well B10 and the river.
 - What is the maximum rate of water than can be pumped if the drawdown of the water table should not exceed 50 cm at any of the observation wells
 - Show the changes in hydraulic head distribution.
-- Demarcate the capture zone of the well at this pumping rate with particle pathlines (“backward tracking”).
+- Using MODPATH, demarcate the capture zone of the well at this pumping rate with particle pathlines (“backward tracking”).
+
+#### 2.3.3 Municipal Water Supply Desgin: Landfill Site Selection
+
+It is planned to install a water supply well half way between observation well B10 and the river.
+- What is the maximum rate of water than can be pumped if the drawdown of the water table should not exceed 50 cm at any of the observation wells
+- Show the changes in hydraulic head distribution.
+- Landfill siting: Although landfills are typically lined to prevent leachate contamination, a failure of the liner must be considered. Identify a suitable location for a new landfill such that, in the event of liner failure, contaminants would not migrate to the pumping well.
+- Using MODPATH, show particle pathlines from your landfill to demonstrate that the landfill site will not contribute contaminants to the supply well. your pumping wells (“backward tracking”).
 
 ## 3. Modeling report (20 points)
 
@@ -145,21 +153,20 @@ Suggested Structure and Content
 ### 3.3 Required Figures (Minimum)
 
 General
-* Diagram of the modeling process (adapted from *Lesson 17 GW Modeling 1: Model Setup* slides).
+* Diagram of the modeling process (adapted from *Lesson 17 GW Modeling 1: Model Setup* slides)
 Model Setup
-* Map showing observation wells, proposed pumping well, industrial area, and infiltration area.
-* Head contour and hydraulic conductivity field before automatic calibration.
+* Map showing observation wells, proposed pumping well, industrial area, and infiltration area
+* Head contour and hydraulic conductivity field before automatic calibration
 Model Calibration
-* Head contour and hydraulic conductivity field after calibration.
-* Plot of residuals (observed vs. simulated).
-* Scatter plot: simulated vs. observed heads.
+* Head contour and hydraulic conductivity field after calibration
+* Plot of residuals (observed vs. simulated)
+* Scatter plot: simulated vs. observed heads
 * Plot: residuals vs. observed heads.
   * (*See slides from “Model Calibration” for guidance on writing strong discussions of these results.*)
 
 Model Application
-* Design Problem 1: Head contour maps for different scenarios.
-* Design Problem 1: Head contour map including your pumping well.
-* Design Problem 1: Particle tracking figure.
+* Design Problem 1: Head contour maps for different scenarios
+* Design Problem 2/3: Head contour map with pumping and Particle tracking figure
 
 These are the minimum required figures. Include additional figures where needed to better illustrate your design effectiveness and results.
 
