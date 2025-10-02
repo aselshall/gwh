@@ -1,4 +1,4 @@
-# Project 2: Groundwater Supply Design  
+# Term Project: Groundwater Supply Design  
 
 *Modified from Finkel, M. (2008), Environmental Modelling 1 Lecture Notes, University of Tuebingen, Tuebingen.*
 
