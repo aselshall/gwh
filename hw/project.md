@@ -112,8 +112,6 @@ Prepare a modeling report to document your model and results.  The report is the
 
 Here’s a polished and more professional version of your outline and figures section. I’ve streamlined the language, improved consistency, and emphasized clarity while keeping it concise and actionable.
 
----
-
 ### 3.2 Report Outline
 
 Suggested Structure and Content
@@ -161,7 +159,8 @@ Model Application
 * Design Problem 1: Head contour maps for different scenarios.
 * Design Problem 1: Head contour map including your pumping well.
 * Design Problem 1: Particle tracking figure.
-> *These are the minimum required figures. Include additional figures where needed to better illustrate your design effectiveness and results.*
+
+These are the minimum required figures. Include additional figures where needed to better illustrate your design effectiveness and results.
 
 
 ## Reference
