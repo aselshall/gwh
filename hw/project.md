@@ -1,4 +1,4 @@
-# [Term Project: Municipal Water Supply Desgin](https://aselshall.github.io/gwh/hw/project)
+# [Term Project: Municipal Water Supply Design](https://aselshall.github.io/gwh/hw/project)
 
 *Modified from Finkel, M. (2008), Environmental Modelling 1 Lecture Notes, University of Tuebingen, Tuebingen.*
 
@@ -80,7 +80,8 @@ Calibrate the groundwater flow model such that the heads simulated at the 12 obs
 ### 2.3 Model Application (30 points)
 Do any of the following two design problems.
 
-#### 2.3.1 Municipal Water Supply Desgin: Nature-based Infrastructure for Mitigating the Impacts of a Planned Industrual Area
+#### 2.3.1 Municipal Water Supply Design: Nature-based Infrastructure for Mitigating the Impacts of a Planned Industrial Area
+
 It is planned to install a municipal water supply well half way between observation well B10 and the river.  Also, a new industrial area is planned in the study area as show in Fig. 3 resulting in a complete sealing of the surface. For each of the following scenarios, what is the maximum rate of water than can be pumped if the drawdown of the water table should not exceed 1 m at any of the observation wells?
 
 - Scenario 1: This is the pre-development condition without the industrial area.
@@ -97,14 +98,14 @@ Fig. 3 Plan view of the model domain including the location of observation wells
 
 Discuss your results given the information provided in [Elshall et al. 2020](https://iopscience.iop.org/article/10.1088/1748-9326/ab8e8c). 
 
-#### 2.3.2 Municipal Water Supply Desgin: Capture Zone Delineation
+#### 2.3.2 Municipal Water Supply Design: Capture Zone Delineation
 
 It is planned to install a water supply well half way between observation well B10 and the river.
 - What is the maximum rate of water than can be pumped if the drawdown of the water table should not exceed 50 cm at any of the observation wells
 - Show the changes in hydraulic head distribution.
 - Using MODPATH, demarcate the capture zone of the well at this pumping rate with particle pathlines (“backward tracking”).
 
-#### 2.3.3 Municipal Water Supply Desgin: Landfill Site Selection
+#### 2.3.3 Municipal Water Supply Design: Landfill Site Selection
 
 It is planned to install a water supply well half way between observation well B10 and the river.
 - What is the maximum rate of water than can be pumped if the drawdown of the water table should not exceed 50 cm at any of the observation wells
