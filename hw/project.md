@@ -6,8 +6,8 @@
 ### 1.1 Hydrogeological Settings
 The investigated aquifer is situated within the alluvial complex of a river catchment. The sediments consist of sandy silts and locally of old buried river channels. The aquifer is unconfined throughout the catchment and lays on top of an aquitard (elevation of aquifer base: 90 m above sea level). Fig. 1 depicts the situation. The head in the river (width = 40 m) can be assumed to be constantly hriv = 100 m in along the area of interest.  A groundwater flow model shall be set up in order to support the planning of different facilities (water supply well, industrial area, landfill).
 
-<img width="488" height="433" alt="image" src="https://github.com/user-attachments/assets/e079c870-2efe-4d09-889b-eb5c1847fe05" />
- 
+<img width="1084" height="961" alt="image" src="https://github.com/user-attachments/assets/b0ac1a3d-ce97-4821-8bbb-6c77403d6424" />
+
 Fig. 1 Plan view and cross section of the area of investigation. (Remark: isolines are only schematically correct!)
 	
 ### 1.2 Model Setup
