@@ -1,4 +1,4 @@
-# Term Project: Groundwater Supply Design  
+# [Term Project: Groundwater Supply Design](
 
 *Modified from Finkel, M. (2008), Environmental Modelling 1 Lecture Notes, University of Tuebingen, Tuebingen.*
 
@@ -22,7 +22,7 @@ The elevation of the riverbed bottom is 95 m. Thickness of riverbed sediments is
 ### 1.5 Electrical Resistivity Profiling 
 Geophysical survey as shown in Fig. 2 is available. 
 
- <img width="500" height="505" alt="image" src="https://github.com/user-attachments/assets/e957e454-b54b-4b7d-a4bc-837d00e8f731" />
+<img width="834" height="482" alt="image" src="https://github.com/user-attachments/assets/de60e4c3-298d-48ec-894e-75275c88a75f" />
 
 Fig. 2 Results of electrical resistivity profiling showing resistivity values in ohm-meter [Ω.m].
 
