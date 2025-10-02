@@ -51,6 +51,7 @@ Tab. 1 Observation wells and head measurements
 ### 1.7 Pumping Test 
 Results from aquifer tests provide ranges of K values at each observation wells (Table 2). 
 Table 2. Pumping test results 
+
 | Well | Low K | High K |
 |------|-------|--------|
 | B1   | 3     | 12     |
@@ -64,7 +65,7 @@ Table 2. Pumping test results
 | B9   | 39    | 44     |
 | B10  | 550   | 750    |
 | B11  | 250   | 320    |
-|B12	 | 280	 | 370    |
+|B12   | 280   | 370    |
 
 Note that no aquifer test could be made in vicinity to the river due to missing wells in this area. However, it can be assumed that highly permeable river sediments can be found along the river and beside it up to a distance of approximately 200 to 300 m.
 
