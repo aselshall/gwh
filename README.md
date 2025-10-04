@@ -76,14 +76,13 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 8    | 06-Oct - 12-Oct      | - Aquifer response to pumping <br>- Steady-state drawdown <br>- Transient drawdown              | 5   | HW8  |
 | 9    | 13-Oct - 19-Oct      | - Aquifer test                                                                                  | 5   | HW9  |
 | 10   | 20-Oct - 26-Oct      | - Electrical resistivity imaging <br>- Hydrogeologic site characterization                      | 12  | HW10 <br>Midterm exam|
-| 11   | 31-Oct               | - Field Trip to Immokalee for Field Work                                                        |     |   |
-| 11   | 27-Oct - 02-Nov      | - Groundwater modeling: Model setup and calibration                                             | 13  | HW11 |
-| 11   | 31-Oct               | - Field Trip to immokalee                                                                       | 13  | HW11 |
-| 12   | 03-Nov - 09-Nov      | - Groundwater modeling: Model applicatio                                                        | 13  | HW12 |  
+| 11   | 31-Oct               | - Field Trip to Immokalee for Field Work (Friday 8:00 am - 2:00 pm)                             |     |      |
+| 11   | 27-Oct - 02-Nov      | - Groundwater flow modeling: Model setup and calibration                                        | 13  | HW11 |
+| 12   | 03-Nov - 09-Nov      | - Groundwater flow modeling: Model application                                                  | 13  | HW12 |  
 | 13   | 10-Nov - 16-Nov      | - Mass transport of solutes                                                                     | 10  | HW13 |
 | 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                      |     |      |
 | 14   | 17-Nov - 23-Nov      | - Independent study (make up for the field trip)                                                |     | HW14 |
-| 15   | 24-Nov - 25-Nov      | - Project day                                                                                   |     |      |
+| 15   | 24-Nov - 25-Nov      | - Project week                                                                                  |     |      |
 | 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                              |     |      |
 | 16   | 01-Dec - 07-Dec      | - Presentation of the [Paper Review](https://aselshall.github.io/gwh/hw/review)                 |     | Project Report |
 | 17   | 08-Dec - 12-Ded      | Finals week - No Final Exam                                                                     |     |      |
