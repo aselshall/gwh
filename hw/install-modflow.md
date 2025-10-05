@@ -1,4 +1,4 @@
-## Installing ModelMuse, MODFLOW and PEST
+## [Installing ModelMuse, MODFLOW and PEST](https://aselshall.github.io/gwh/hw/install-modflow)
 
 ### Introduction 
 
