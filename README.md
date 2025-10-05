@@ -81,11 +81,12 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 12   | 03-Nov - 09-Nov      | - Groundwater flow modeling: Model application                                                  | 13  | HW12 |  
 | 13   | 10-Nov - 16-Nov      | - Mass transport of solutes                                                                     | 10  | HW13 |
 | 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                      |     |      |
-| 14   | 17-Nov - 23-Nov      | - Independent study (make up for the field trip)                                                |     | HW14 |
+| 14   | 17-Nov - 23-Nov      | - Presentation of the [Paper Review](https://aselshall.github.io/gwh/hw/review)                 |     |      |
 | 15   | 24-Nov - 25-Nov      | - Project week                                                                                  |     |      |
 | 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                              |     |      |
-| 16   | 01-Dec - 07-Dec      | - Presentation of the [Paper Review](https://aselshall.github.io/gwh/hw/review)                 |     | Project Report |
+| 16   | 01-Dec - 07-Dec      | - Independent study (make up for the field trip)                                                |     | Project Report |
 | 17   | 08-Dec - 12-Ded      | Finals week - No Final Exam                                                                     |     |      |
+
 
 
 ## Assessment and Grading
