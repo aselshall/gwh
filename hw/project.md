@@ -1,4 +1,4 @@
-# [Term Project: Municipal Water Supply Design](https://aselshall.github.io/gwh/hw/project)
+# [Class Project: Municipal Water Supply Design](https://aselshall.github.io/gwh/hw/project)
 
 *Modified from Finkel, M. (2008), Environmental Modelling 1 Lecture Notes, University of Tuebingen, Tuebingen.*
 
