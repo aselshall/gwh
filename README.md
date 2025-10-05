@@ -84,7 +84,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 14   | 17-Nov - 23-Nov      | - Presentation of the [Paper Review](https://aselshall.github.io/gwh/hw/review)                 |     |      |
 | 15   | 24-Nov - 25-Nov      | - Project week                                                                                  |     |      |
 | 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)                                                              |     |      |
-| 16   | 01-Dec - 07-Dec      | - Independent study (make up for the field trip)                                                |     | Project Report |
+| 16   | 01-Dec - 07-Dec      | - Independent study (make up for the field trip)                                                |     | HW14 <br> Project Report |
 | 17   | 08-Dec - 12-Ded      | Finals week - No Final Exam                                                                     |     |      |
 
 
