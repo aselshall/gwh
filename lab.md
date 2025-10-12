@@ -62,7 +62,7 @@ Beyond physical fieldwork, the lab host suite of software and high-performance c
   - **Environmental data science** including remote sensing and climate data analysis
   - **Geostatistical analysis** for subsurface characterization
   - **Numerical modeling** including groundwater flow, contaminant transport, and surface water-groundwater interactions
-  - **AI and Machine learning** for problems too complex for numerical modeling
+  - **AI and machine learning** for problems too complex for numerical modeling
   - **Calibration and optimization** using high-performance computing
   - **Uncertainty analysis** for analyzing potential range of outcomes and sampling optimization
 - High-performance computing (HPC): The lab has access to HiPerGator AI for large-scale simulations, complex optimization problems, and training advanced machine learning models
