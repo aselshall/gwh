@@ -213,6 +213,12 @@ This section assesses the quality, clarity, and completeness of the final writte
 | **Quality of Figures and Tables (5 Points)** | All required figures are included, are of publication quality, and are clearly labeled, referenced, and explained in the text. | All required figures are present but may lack professional quality, clear labels, or sufficient explanation. | Several required figures are missing, or the included figures are low quality and not explained. | Figures are largely absent or irrelevant. |
 | **Discussion and Professionalism (5 Points)** | The report presents a clear and insightful discussion of the results, assumptions, and model limitations. The writing is professional, concise, and free of grammatical errors. | The discussion of results is adequate but may lack depth or critical analysis of limitations. Some grammatical errors are present. | The discussion is superficial, and the report is difficult to read due to poor writing and grammatical errors. | The report lacks any meaningful discussion, and the writing is unprofessional. |
 
+## Tutorials
+- ModelMuse Tutorial: Model Step-up, Calibration, and Application [Doc](https://docs.google.com/document/d/1m-uk82--2CbwuMl0uCbJmZcNZgsjeMpk4VHWPlU_J6Q/edit?usp=sharing)
+- ModelMuse Tutorial: Model Step-up, and Calibration [Video](https://www.youtube.com/live/gUOqFBnUCko)
+- Winston, R.B. (2023). Getting Started with MODFLOW. The Groundwater Project. [https://doi.org/10.21083/978-1-77470-030-3](https://doi.org/10.21083/978-1-77470-030-3)
+
+
 ## Reference
 - Elshall, A.S., A.D. Arik, A. El-Kadi, S. Pierce, M. Ye, C. A. Wada, K.M. Burnett, ​L.L. Bremer, and G. Chun (2020), Groundwater sustainability : A review of the interactions between science and policy, Environmental Research Letters, 15 , 093004. https://doi.org/10.1088/1748-9326/ab8e8c
 - Oki, D. S. (2005). Numerical Simulation of the Effects of Low-Permeability Valley-Fill Barriers and the Redistribution of Ground-Water Withdrawals in the Pearl Harbor Area, Oahu, Hawaii. U.S. Geological Survey, Scientific Investigations Report 2005-5253. Retrieved from https://pubs.usgs.gov/sir/2005/5253/
