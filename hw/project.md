@@ -74,10 +74,10 @@ Note that no aquifer test could be made in vicinity to the river due to missing 
 ### 2.1 Model Setup  (120 points)
 Setup groundwater flow model in a steady-state. Follow the suggestions concerning the spatial extension and gridding that are made above. Remark: Make sure that the elevation of the top of the layer is large enough to guarantee unconfined conditions (i.e. the simulated hydraulic heads should not exceed the model’s top elevation 
 
-### 2.2 Model Calibration (40 points) 
+### 2.2 Model Calibration (50 points) 
 Calibrate the groundwater flow model such that the heads simulated at the 12 observation wells do not deviate from the measured head values more than 0.3 m. Remark: As all model parameters except the hydraulic conductivity K are given, the task is to find the appropriate spatial K distribution. First, inspect the given data/information carefully. Then consider possible zonation to start with based on the given data. Once the model is calibrated, you can proceed dealing with the problem described below 
 
-### 2.3 Model Application (20 points)
+### 2.3 Model Application (10 points)
 Do any of the following two design problems.
 
 #### 2.3.1 Municipal Water Supply Design: Nature-based Infrastructure for Mitigating the Impacts of a Planned Industrial Area
@@ -96,7 +96,7 @@ For each scenario:
 
 Fig. 3 Plan view of the model domain including the location of observation wells (B1 to B10), and the location of the planned industrial area.
 
-Discuss your results given the information provided in [Elshall et al. 2020](https://iopscience.iop.org/article/10.1088/1748-9326/ab8e8c). 
+Bonus Points: Discuss your results given the information provided in [Elshall et al. 2020](https://iopscience.iop.org/article/10.1088/1748-9326/ab8e8c). 
 
 #### 2.3.2 Municipal Water Supply Design: Capture Zone Delineation
 
@@ -187,22 +187,22 @@ This section evaluates the correct construction of the numerical groundwater flo
 | **Initial Hydraulic Conductivity (K) Zonation (30 Points)** | A clear, logical initial K-zonation is developed and justified by thoughtfully integrating all available data, including pumping tests, geophysical logs, and geological descriptions with all required figures | Initial K-zonation is reasonable but may not fully integrate all available data sources, the justification is incomplete, or some required figures missing | K-zonation is attempted but is simplistic, arbitrary, or does not reflect the provided data. | No attempt is made to create a rational K-field; a uniform value is used without justification. |
 | **Hyraulic Head Simulation (30 Points)** | Successful model run with all the required figures and tables shown  | Successful model run with all most the required figures and tables shown | Successful model run with only a few figures shown| Unscessful model run. |    
 
-### 4.2 Model Calibration (40 points)
+### 4.2 Model Calibration (50 points)
 This section assesses the process and result of calibrating the model to match observed field data.
 
 | Criteria | Excellent (100-90%) | Proficient (89-75%) | Developing (74-60%) | Unsatisfactory (<60%) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Calibration Target Achievement (30 Points)** | The final calibrated model successfully meets the required target: simulated heads at all 12 observation wells are within 0.3 m of the measured values and  all required figures and tables included. | The model is calibrated, but a few wells slightly exceed the 0.3 m deviation target and most of required figures and tables included. | Calibration is attempted, but deviations from measured heads are significant and widespread. | The model is not calibrated, or the calibration results do not meet the project requirements. |
+| **Calibration Target Achievement (40 Points)** | The final calibrated model successfully meets the required target: simulated heads at all 12 observation wells are within 0.3 m of the measured values and  all required figures and tables included. | The model is calibrated, but a few wells slightly exceed the 0.3 m deviation target and most of required figures and tables included. | Calibration is attempted, but deviations from measured heads are significant and widespread. | The model is not calibrated, or the calibration results do not meet the project requirements. |
 | **Calibration Process Documentation (10 Points)** | The report clearly documents the iterative calibration process, showing adjustment of the  K values to achieve the target.| The calibration process is described but lacks some detail or clear justification for the changes made to the K-field. | The report mentions calibration but does not describe the process used to achieve it. | No evidence or description of a calibration process is provided. |
 
-### 4.3 Model Application (20 points)
+### 4.3 Model Application (10 points)
 This section evaluates the successful application of the calibrated model to solve **one** of the three specified design problems. 
 
 | Criteria | Excellent (100-90%) | Proficient (89-75%) | Developing (74-60%) | Unsatisfactory (<60%) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Scenario Setup and Execution (10 Points)** | All scenarios for the chosen problem are set up correctly (e.g., pumping well location, industrial area recharge changes, particle tracking setup). Model runs are executed correctly and all required figures and tables included. | Scenarios are set up with minor errors (e.g., incorrect recharge value, wrong drawdown constraint) and most of required figures and tables included.| Major errors in scenario setup that prevent a meaningful analysis. | Scenarios are not set up or are fundamentally flawed. |
-| **Analysis and Calculation (5 Points)** | Maximum pumping rates are accurately determined while respecting drawdown limits. Head distribution changes are correctly shown and analyzed. All required calculations (e.g., conversion to MGD, population served) are correct. | Pumping rates and required calculations are mostly correct with minor errors. Analysis of head changes is adequate. | Significant errors in determining pumping rates or performing required calculations. Analysis is minimal. | Pumping rates are not determined, or calculations are missing/incorrect. |
-| **Recommendations and Justification (5 Points)** | Actionable recommendations (e.g., infiltration area location, landfill site) are provided and are strongly supported with clear evidence from model simulations (e.g., head maps, particle pathlines). | Recommendations are provided but the justification from model results is weak or not clearly articulated. | Recommendations are given but are not supported by model results. | No recommendations are provided. |
+| **Scenario Setup and Execution (5 Points)** | All scenarios for the chosen problem are set up correctly (e.g., pumping well location, industrial area recharge changes, particle tracking setup). Model runs are executed correctly and all required figures and tables included. | Scenarios are set up with minor errors (e.g., incorrect recharge value, wrong drawdown constraint) and most of required figures and tables included.| Major errors in scenario setup that prevent a meaningful analysis. | Scenarios are not set up or are fundamentally flawed. |
+| **Analysis and Calculation (2.5 Points)** | Maximum pumping rates are accurately determined while respecting drawdown limits. Head distribution changes are correctly shown and analyzed. All required calculations (e.g., conversion to MGD, population served) are correct. | Pumping rates and required calculations are mostly correct with minor errors. Analysis of head changes is adequate. | Significant errors in determining pumping rates or performing required calculations. Analysis is minimal. | Pumping rates are not determined, or calculations are missing/incorrect. |
+| **Recommendations and Justification (2.5 Points)** | Actionable recommendations (e.g., infiltration area location, landfill site) are provided and are strongly supported with clear evidence from model simulations (e.g., head maps, particle pathlines). | Recommendations are provided but the justification from model results is weak or not clearly articulated. | Recommendations are given but are not supported by model results. | No recommendations are provided. |
 
 ### 4.4 Modeling Report (20 points)
 This section assesses the quality, clarity, and completeness of the final written report. 
@@ -219,7 +219,7 @@ This section assesses the quality, clarity, and completeness of the final writte
 - Winston, R.B. (2023). Getting Started with MODFLOW. The Groundwater Project. [https://doi.org/10.21083/978-1-77470-030-3](https://doi.org/10.21083/978-1-77470-030-3)
 
 
-## Reference
+## References
 - Elshall, A.S., A.D. Arik, A. El-Kadi, S. Pierce, M. Ye, C. A. Wada, K.M. Burnett, ​L.L. Bremer, and G. Chun (2020), Groundwater sustainability : A review of the interactions between science and policy, Environmental Research Letters, 15 , 093004. https://doi.org/10.1088/1748-9326/ab8e8c
 - Oki, D. S. (2005). Numerical Simulation of the Effects of Low-Permeability Valley-Fill Barriers and the Redistribution of Ground-Water Withdrawals in the Pearl Harbor Area, Oahu, Hawaii. U.S. Geological Survey, Scientific Investigations Report 2005-5253. Retrieved from https://pubs.usgs.gov/sir/2005/5253/
 - Swain, E. D., Lohmann, M. A., & Goodwin, C. R. (2019). The hydrologic system of the south Florida peninsula—Development and application of the Biscayne and Southern Everglades Coastal Transport (BISECT) model (Report No. 2019–5045) (p. 126). Reston, VA. https://doi.org/10.3133/sir20195045
