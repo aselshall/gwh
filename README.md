@@ -79,7 +79,7 @@ The instructor will specify relevant chapters from Fetter (not free) and their c
 | 11   | 31-Oct               | - Elective Field Trip to Immokalee (Friday 8:00 am - 2:00 pm)                                   | 12  |      |
 | 11   | 27-Oct - 02-Nov      | - Groundwater flow modeling: Model setup and calibration                                        | 13  | HW11 |
 | 12   | 03-Nov - 09-Nov      | - Groundwater flow modeling: Model application                                                  | 13  | HW12 |  
-| 13   | 10-Nov - 16-Nov      | - Mass transport of solutes                                                                     | 10  | HW13 |
+| 13   | 10-Nov - 16-Nov      | - Contaminant transport                                                                         | 10  | HW13 |
 | 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                                                                      |     |      |
 | 14   | 17-Nov - 23-Nov      | - Presentation of the [Paper Review](https://aselshall.github.io/gwh/hw/review)                 |     |      |
 | 15   | 24-Nov - 25-Nov      | - Project week                                                                                  |     |      |
