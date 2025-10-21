@@ -6,6 +6,7 @@ Last updated: Aug 8, 2025
 
 Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg)   
 Surface Water-Groundwater Field Lab: [Link](https://aselshall.github.io/gwh/lab)
+Class project: [Link](https://aselshall.github.io/gwh/hw/project)
 
 ## Course Information
 Course: EGN 4930/5932C ST: Groundwater Hydrology   
@@ -139,7 +140,7 @@ A comprehensive midterm exam will be conducted online.
 - A makeup exam may be provided for students with an [excused absence](#excused-absence-policy).
 
 ## Project
-You need to either complete a class project or propose your own project. Self-proposed projects must be discussed with and approved by the instructor before starting.
+You need to either complete a [class project](https://aselshall.github.io/gwh/hw/project) or propose your own project. Self-proposed projects must be discussed with and approved by the instructor before starting.
 
 #### Class Project
 The class project involves analyzing field data to set up and calibrate groundwater models using MODFLOW for engineering design.
