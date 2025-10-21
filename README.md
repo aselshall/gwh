@@ -5,7 +5,7 @@ Fall 2025
 Last updated: Aug 8, 2025
 
 Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg)   
-Surface Water-Groundwater Field Lab: [Link](https://aselshall.github.io/gwh/lab)
+Surface Water-Groundwater Field Lab: [Link](https://aselshall.github.io/gwh/lab)    
 Class project: [Link](https://aselshall.github.io/gwh/hw/project)
 
 ## Course Information
