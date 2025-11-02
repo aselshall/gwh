@@ -217,9 +217,9 @@ This section assesses the quality, clarity, and completeness of the final writte
 - ModelMuse Tutorial: Model Step-up, Calibration, and Application: [Doc](https://docs.google.com/document/d/1m-uk82--2CbwuMl0uCbJmZcNZgsjeMpk4VHWPlU_J6Q/edit?usp=sharing)
 - ModelMuse Tutorial: Model Step-up, and Calibration: [Video](https://www.youtube.com/live/gUOqFBnUCko)
 - ModelMuse Tutorial: Model Step-up, Calibration and Application Longer Tutorial ~ 7 hours
-		- [Part 1 Model Setup](https://youtu.be/w4_wAtJWmBg)
- 		- [Part 2 Model Calibration](https://youtu.be/PBabTAGCwnk)
-  		- [Part 3 Model Application](https://youtu.be/s7jk0MSXNWo)
+	- [Part 1 Model Setup](https://youtu.be/w4_wAtJWmBg)
+   - [Part 2 Model Calibration](https://youtu.be/PBabTAGCwnk)
+   - [Part 3 Model Application](https://youtu.be/s7jk0MSXNWo)
 - Winston, R.B. (2023). Getting Started with MODFLOW. The Groundwater Project: [https://doi.org/10.21083/978-1-77470-030-3](https://doi.org/10.21083/978-1-77470-030-3)
 
 
