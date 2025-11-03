@@ -222,6 +222,13 @@ This section assesses the quality, clarity, and completeness of the final writte
    - [Part 3 Model Application](https://youtu.be/s7jk0MSXNWo)
 - Winston, R.B. (2023). Getting Started with MODFLOW. The Groundwater Project: [https://doi.org/10.21083/978-1-77470-030-3](https://doi.org/10.21083/978-1-77470-030-3)
 
+## FAQs
+
+**Q.1: I can not run the model because the path to save it will not work.**
+
+A: If the path name has a dot `.`  or special characters, you will have this issue. Keep your path name simple.
+
+
 
 ## References
 - Elshall, A.S., A.D. Arik, A. El-Kadi, S. Pierce, M. Ye, C. A. Wada, K.M. Burnett, ​L.L. Bremer, and G. Chun (2020), Groundwater sustainability : A review of the interactions between science and policy, Environmental Research Letters, 15 , 093004. https://doi.org/10.1088/1748-9326/ab8e8c
