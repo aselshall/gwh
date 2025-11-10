@@ -214,6 +214,7 @@ This section assesses the quality, clarity, and completeness of the final writte
 | **Discussion and Professionalism (5 Points)** | The report presents a clear and insightful discussion of the results, assumptions, and model limitations. The writing is professional, concise, and free of grammatical errors. | The discussion of results is adequate but may lack depth or critical analysis of limitations. Some grammatical errors are present. | The discussion is superficial, and the report is difficult to read due to poor writing and grammatical errors. | The report lacks any meaningful discussion, and the writing is unprofessional. |
 
 ## Tutorials
+- Installing ModelMuse, MODFLOW and PEST: [video](https://www.youtube.com/watch?v=47eb-QP6QqA&list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg&index=33&t=551s)
 - ModelMuse Tutorial: Model Step-up, Calibration, and Application: [Doc](https://docs.google.com/document/d/1m-uk82--2CbwuMl0uCbJmZcNZgsjeMpk4VHWPlU_J6Q/edit?usp=sharing)
 - ModelMuse Tutorial: Model Step-up, and Calibration: [Video](https://www.youtube.com/live/gUOqFBnUCko)
 - ModelMuse Tutorial: Model Step-up, Calibration and Application Longer Tutorial ~ 7 hours
@@ -234,7 +235,8 @@ MODFLOW is a Fortran code and the USGS has compiled it for you, which is the `mf
 
 **Q.3: MODFLOW on AppsAnywhere is not working.**
 
-AppsAnywhere does not have MODFLOW (e.g., mf2005.exe). AppsAnywhere has ModelMuse which is a GUI for MODFLOW codes and other USGS codes (e.g., MODPATH) and PEST. To use any of these executables you need to have them on your local machine and link ModelMuse to them. For example, if you want to use MODFLOW 2005, then you need to link ModelMuse to your mf2005 (wherever that is on your machine) as shown in the tutorial video. 
+AppsAnywhere does not have MODFLOW (e.g., mf2005.exe). AppsAnywhere has ModelMuse which is a GUI for MODFLOW codes and other USGS codes (e.g., MODPATH) and PEST. To use any of these executables you need to have them on your local machine and link ModelMuse to them. For example, if you want to use MODFLOW 2005, then you need to link ModelMuse to your mf2005 (wherever that is on your machine) as shown in the [Installing ModelMuse, MODFLOW and PEST video](https://www.youtube.com/watch?v=47eb-QP6QqA&list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg&index=33&t=551s).
+
 Also, you need to have a legitimate path. For example, your file path cannot contain a dot '.' or any special characters. Most importantly, ModelMuse needs to have access to that file location. That is why AppsAnywhere might not work, and it is recommended to directly install ModelMuse on your own machine. 
 
 ## References
