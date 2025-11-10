@@ -228,7 +228,14 @@ This section assesses the quality, clarity, and completeness of the final writte
 
 A: If the path name has a dot `.`  or special characters, you will have this issue. Keep your path name simple.
 
+**Q.2: On my Linux or Mac machine, ModelMuse is working but MODFLOW `mf2005.exe` is not working.**
 
+MODFLOW is a Fortran code and the USGS has compiled it for you, which is the `mf2005.exe` file. This is compiled for a Windows machine. If you are using a mac or Linux than you have to compile it yourself (not recommended). You need to have a windows machine with ModelMuse installed on it.
+
+**Q.3: MODFLOW on AppsAnywhere is not working.**
+
+AppsAnywhere does not have MODFLOW (e.g., mf2005.exe). AppsAnywhere has ModelMuse which is a GUI for MODFLOW codes and other USGS codes (e.g., MODPATH) and PEST. To use any of these executables you need to have them on your local machine and link ModelMuse to them. For example, if you want to use MODFLOW 2005, then you need to link ModelMuse to your mf2005 (wherever that is on your machine) as shown in the tutorial video. 
+Also, you need to have a legitimate path. For example, your file path cannot contain a dot '.' or any special characters. Most importantly, ModelMuse needs to have access to that file location. That is why AppsAnywhere might not work, and it is recommended to directly install ModelMuse on your own machine. 
 
 ## References
 - Elshall, A.S., A.D. Arik, A. El-Kadi, S. Pierce, M. Ye, C. A. Wada, K.M. Burnett, ​L.L. Bremer, and G. Chun (2020), Groundwater sustainability : A review of the interactions between science and policy, Environmental Research Letters, 15 , 093004. https://doi.org/10.1088/1748-9326/ab8e8c
