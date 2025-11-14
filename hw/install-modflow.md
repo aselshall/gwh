@@ -39,7 +39,9 @@ Unzip the downloaded files and keep them together (e.g., C:/WRDAPP/). See the sc
 <br>
 This screenshot shows additional MODFLOW related programs that you will not need for this project. For this project you only need MF2005.1_*, ModelMate_*, and pest17.
 <b>
+<b>
 For PEST you need to have all PEST related programs under one folder (e.g., e.g., C:/WRDAPP/pest17). Keep all the executable files under pest17. 
+<b>
 <b>
 <img width="910" height="658" alt="image" src="https://github.com/user-attachments/assets/f463f59d-48f2-47dd-84f6-521fc887dc44" />
 <br>
