@@ -1,6 +1,6 @@
-## [Installing ModelMuse, MODFLOW and PEST](https://aselshall.github.io/gwh/hw/install-modflow)
+# [Installing ModelMuse, MODFLOW and PEST](https://aselshall.github.io/gwh/hw/install-modflow)
 
-### Introduction 
+## Introduction 
 
 ModelMuse is a graphical user interface (GUI) for the family of MODFLOW-related programs: [Link](https://www.usgs.gov/software/modelmuse-a-graphical-user-interface-groundwater-models)
 
@@ -8,16 +8,16 @@ MODFLOW is the USGS's modular hydrologic model. MODFLOW is considered an interna
 
 PEST automates calibration, and uncertainty analysis of any numerical model: [Link](https://pesthomepage.org/)
 
-### Tutorial
+## Tutorial
 
 This tutorial will guide you through the installation of ModelMuse GUI, MODFLOW 2005 for groundwater flow simulation, and PEST for model calibration. 
 
-#### 1. Install ModelMuse
+### 1. Install ModelMuse
 If you are using your personal laptop, install ModelMuse current release (e.g., v.5.1.1.0.): [Link](https://www.usgs.gov/software/modelmuse-a-graphical-user-interface-groundwater-models)
 
 Alternatively, you can launch ModelMuse from appsanywhere. If ModelMuse (or any other program in general) is not working for you on appsanywhere, check out this Appsanywhere Troubleshooting document: [Link](https://docs.google.com/document/d/17gtyg7qrX9wtrEDqDxq8aKzqPHUJXndhRl_jwJ415Ao/edit?usp=sharing)
  
-#### 2. Download MODFLOW and related programs 
+### 2. Download MODFLOW and related programs 
 
 1) MODFLOW-2005
     - https://water.usgs.gov/water-resources/software/MODFLOW-2005/MF2005.1_12.zip
@@ -29,10 +29,10 @@ Alternatively, you can launch ModelMuse from appsanywhere. If ModelMuse (or any 
     - Groundwater Utilities: https://s3.amazonaws.com/docs.pesthomepage.org/software/gwutils.zip
     - PLPROC: https://s3.amazonaws.com/docs.pesthomepage.org/software/plproc.zip
 
-#### 3. Install ModelMate
+### 3. Install ModelMate
 Click on the executable file to install ModelMate at the selected location (e.g., C:/WRDAPP/)
 
-#### 4. Place programs in one folder 
+### 4. Place programs in one folder 
 Unzip the downloaded files and keep them together (e.g., C:/WRDAPP/). See the screenshot below as an example. 
 <img width="724" height="679" alt="image" src="https://github.com/user-attachments/assets/1ec37fad-d5ca-4356-b51e-3b1e0b22539f" />
 <br>
@@ -64,7 +64,7 @@ This will work
 > C:\Users\aelshall\CWR4540C_Fall2023\GW_Project\mc_1.gpt
 By replacing the dot with underscore
 
-#### 5. Link MODFLOW and related programs to ModelMuse
+### 5. Link MODFLOW and related programs to ModelMuse
 Launch ModelMuse and link ModelMuse to the executables as follows. 
  
 From `Model` -> `MODFLOW program locations`, make sure that ModelMuse knows your MODFLOW executable location (e.g., C:\WRDAPP\MF2005.1_12\bin\mf2005.exe) 
