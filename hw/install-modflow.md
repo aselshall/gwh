@@ -34,14 +34,14 @@ Click on the executable file to install ModelMate at the selected location (e.g.
 
 ### 4. Place programs in one folder 
 Unzip the downloaded files and keep them together (e.g., C:/WRDAPP/). See the screenshot below as an example. 
+<br>
 <img width="724" height="679" alt="image" src="https://github.com/user-attachments/assets/1ec37fad-d5ca-4356-b51e-3b1e0b22539f" />
 <br>
 This screenshot shows additional MODFLOW related programs that you will not need for this project. For this project you only need MF2005.1_*, ModelMate_*, and pest17.
-
+<b>
 For PEST you need to have all PEST related programs under one folder (e.g., e.g., C:/WRDAPP/pest17). Keep all the executable files under pest17. 
-
+<b>
 <img width="910" height="658" alt="image" src="https://github.com/user-attachments/assets/f463f59d-48f2-47dd-84f6-521fc887dc44" />
-<br>
 <br>
 
 **Error Message**
