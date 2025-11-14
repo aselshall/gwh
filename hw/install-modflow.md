@@ -74,7 +74,7 @@ From `Model` -> `MODFLOW program locations`, make sure that ModelMuse knows your
 From `Model` -> `PEST Properties’ -> ‘PEST Directory’, make sure that ModelMuse knows the location of PEST executables (e.g., C:\WRDAPP\pest17)
 
 ### Extra: Video Tutorial
-This tutorial [Link](https://www.youtube.com/live/47eb-QP6QqA) contains] the installation instructions:    
+This tutorial [[Link](https://www.youtube.com/live/47eb-QP6QqA) contains] the installation instructions:    
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/47eb-QP6QqA?si=pISeUg-YIz58CPX1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
