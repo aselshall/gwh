@@ -214,7 +214,7 @@ This section assesses the quality, clarity, and completeness of the final writte
 | **Discussion and Professionalism (5 Points)** | The report presents a clear and insightful discussion of the results, assumptions, and model limitations. The writing is professional, concise, and free of grammatical errors. | The discussion of results is adequate but may lack depth or critical analysis of limitations. Some grammatical errors are present. | The discussion is superficial, and the report is difficult to read due to poor writing and grammatical errors. | The report lacks any meaningful discussion, and the writing is unprofessional. |
 
 ## Tutorials
-- Installing ModelMuse, MODFLOW and PEST: [video](https://www.youtube.com/watch?v=47eb-QP6QqA&list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg&index=33&t=551s) or [Doc](https://aselshall.github.io/gwh/hw/install-modflow)
+- Installing ModelMuse, MODFLOW and PEST: [Video](https://www.youtube.com/watch?v=47eb-QP6QqA&list=PLYJuWYhfyGeP5OeH1AbA2Jdy6_he5Jdxg&index=33&t=551s) or [Doc](https://aselshall.github.io/gwh/hw/install-modflow)
 - ModelMuse Tutorial: Model Step-up, Calibration, and Application: [Doc](https://docs.google.com/document/d/1m-uk82--2CbwuMl0uCbJmZcNZgsjeMpk4VHWPlU_J6Q/edit?usp=sharing)
 - ModelMuse Tutorial (Short): Model Step-up, and Calibration: [Video](https://www.youtube.com/live/gUOqFBnUCko)
 - ModelMuse Tutorial (Medium): Model Step-up, Calibration and Application Longer Tutorial ~ 3 hours
