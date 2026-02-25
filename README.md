@@ -45,9 +45,9 @@ By the end of this course, students will be able to:
 
 - Apply the principles of the water cycle to calculate the mass balance of groundwater aquifers and surface water bodies
 - Analyze laboratory and field data to determine properties of groundwater aquifers, including hydraulic conductivity
-- Describe the directions and magnitudes of groundwater flow using fundamental principles of groundwater flow
-- Understand the interactions among hydrological, geological, and transport processes affecting groundwater systems
-- Develop and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
+- Use fundamental principles of groundwater flow to describe the directions and magnitudes of groundwater flow  
+- Describe the interactions among hydrological, geological, and transport processes affecting groundwater systems
+- Setup and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
 
 ## Recommended Textbooks
 Recommended textbooks provide in-depth coverage of the course topics, if you wish to read further and strengthen your understanding.
