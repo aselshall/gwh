@@ -43,11 +43,14 @@ This course serves as an introduction to groundwater hydrology, covering element
 
 By the end of this course, students will be able to:
 
-- Apply the principles of the water cycle to calculate the mass balance of groundwater aquifers and surface water bodies
-- Analyze laboratory and field data to determine properties of groundwater aquifers, including hydraulic conductivity
-- Use fundamental principles of groundwater flow to describe the directions and magnitudes of groundwater flow  
-- Describe the interactions among hydrological, geological, and transport processes affecting groundwater systems
-- Setup and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
+1. Apply the principles of the water cycle to calculate the mass balance of groundwater aquifers and surface water bodies
+2. Analyze laboratory and field data to determine properties of groundwater aquifers, including hydraulic conductivity
+3. Use fundamental principles of groundwater flow to describe the directions and magnitudes of groundwater flow
+4. Describe the interactions among hydrological, geological, and transport processes affecting groundwater systems
+5. Setup and calibrate a basic groundwater model to simulate groundwater flow and evaluate different groundwater management strategies
+
+For more information, refer to [course map](https://aselshall.github.io/gwh/course-map)
+
 
 ## Recommended Textbooks
 Recommended textbooks provide in-depth coverage of the course topics, if you wish to read further and strengthen your understanding.
