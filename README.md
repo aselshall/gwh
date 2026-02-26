@@ -31,7 +31,7 @@ Office Hours :
 
 This course introduces the fundamental principles of groundwater flow and solute transport in aquifers, emphasizing interactions between groundwater and the environment. Students will gain hands-on experience with basic groundwater modeling using the industry-standard tool MODFLOW, providing a foundation for further study and careers in water resources management.
 
-### Preparation for This Course
+## Prerequisites
 
 This course has no formal prerequisites. However, students should be comfortable with:
 - Algebra and basic calculus (derivatives, integrals, solving equations)
