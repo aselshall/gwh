@@ -122,7 +122,7 @@ Assessments:
 - Paper review
 - Project 
 
-### Module 7: Solute Transport (Contaminant Transport) 
+### Module 7: Contaminant Transport
 At the completion of the module, you will be able to:
 1. Describe the main transport processes in groundwater: advection, dispersion, diffusion, sorption, and transformation.
 2. Define and compute key transport parameters, including seepage velocity, dispersion coefficient, and retardation factor.
