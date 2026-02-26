@@ -31,6 +31,16 @@ Office Hours :
 
 This course introduces the fundamental principles of groundwater flow and solute transport in aquifers, emphasizing interactions between groundwater and the environment. Students will gain hands-on experience with basic groundwater modeling using the industry-standard tool MODFLOW, providing a foundation for further study and careers in water resources management.
 
+### Preparation for This Course
+
+This course has no formal prerequisites. However, students should be comfortable with:
+- Algebra and basic calculus (derivatives, integrals, solving equations)
+- Basic physics concepts (units, energy, fluid flow fundamentals)
+- Working with equations and dimensional consistency
+- Using spreadsheets (e.g., Excel) for calculations and data analysis
+- Basic familiarity with engineering problem-solving approaches
+No prior groundwater or modeling experience is required.
+
 ## Introduction
 
 Groundwater flows beneath the Earth's surface through pores, fractures, and conduits within aquifers—water-saturated soil and rock formations that transmit significant quantities of water. Groundwater is the Earth's largest non-frozen freshwater reservoir, accounting for more than 97% of liquid freshwater. It is the world's most extracted natural resource, with withdrawal rates around 1000 km³/year. Groundwater is a reliable freshwater source, moving slowly through aquifers and providing vital benefits to billions of people. It supplies over half of the drinking water, approximately 40% of irrigation water, and about one-third of freshwater for industrial activities. Groundwater also supports ecosystems in aquifers, soils, rivers, lakes, wetlands, coastal zones, and marine environments, offering numerous ecosystem services. Additionally, groundwater is a geothermal energy resource and plays a crucial role in climate change mitigation and adaptation strategies, such as carbon sequestration in deep saline aquifers and flood-managed aquifer recharge.
@@ -180,7 +190,7 @@ You have the opportunity to engage in two active EPA-funded projects including f
 #### Service Learning Action Steps
 To count service learning hours, follow these steps:
 - Step 1 Preparation:
-  - Identify a **not-for-profit** community partner and plan your project with them.
+  - Identify a not-for-profit community partner and plan your project with them.
   - Tip: As identifying and planning with a partner can take time, start the preparation early (week 1) and discuss with the instructor your project idea and feasibility 
 - Step 2 Action:
   - Setup service record in the [Eagle Service Network (ESN)](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting)
