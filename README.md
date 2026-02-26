@@ -39,6 +39,7 @@ This course has no formal prerequisites. However, students should be comfortable
 - Working with equations and dimensional consistency
 - Using spreadsheets (e.g., Excel) for calculations and data analysis
 - Basic familiarity with engineering problem-solving approaches
+
 No prior groundwater or modeling experience is required.
 
 ## Introduction
