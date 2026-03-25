@@ -72,3 +72,10 @@ Beyond physical fieldwork, the lab host suite of software and high-performance c
 - [EPA: A Model-Experiment (ModEx) Framework to Advance Understanding of Fertilizer and Pesticide Reactive Transport in Rural Agricultural Areas
 ](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
 - [NSF: C2H2 EAGER Collaborative Research: Explore a model-data framework to advance predictions of red tide and its impact on respiratory illnesses under changing temperature](https://atmos.eoas.fsu.edu/~mye/EarthSystemModeling.php)
+
+## Teaching
+
+### Immokalee UF-IFAS Fieldwrok - Fall 2025
+- [Fieldwork Handouts](https://github.com/aselshall/gwh/blob/main/files/Imokolee%20Oct%2031%202025%20Handouts.pdf)
+- [Backfield Report](https://github.com/aselshall/gwh/blob/main/files/Imokolee%20Oct%2031%202025%20Fieldtrip%20Report.pdf)
+
