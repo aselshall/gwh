@@ -32,7 +32,7 @@ By bringing these analytical tools to the field, we advance understanding and de
 - [Meter HYDROS 21](https://metergroup.com/products/hydros-21/): Measures water depth, electrical conductivity (EC), and temperature
 - [Meter ZL6 logger](https://metergroup.com/products/zl6/): A central data logger with six ports to collect and store data from the weather station and various sensors
 - [Meter SATURO](https://metergroup.com/products/saturo/): An automated in-situ permeameter for measuring saturated hydraulic conductivity of the soil
-
+- [Meter PARIO](https://metergroup.com/products/pario/): An automated soil particle size analysis
 
 ## Surface water and groundwater hydraulic measurements
 
