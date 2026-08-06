@@ -1,4 +1,5 @@
 ## Guest Lecture 
+
 ### 1. Purpose
 
 Guest lectures provide an opportunity to hear how groundwater concepts are used in research, engineering practice, environmental management, and public decision-making. The purpose of this assignment is not simply to summarize a lecture, but to connect the speaker’s ideas to the technical concepts studied in this course.
