@@ -57,4 +57,4 @@ Your response should provide clear evidence that you watched the selected lectur
 
 Generative AI may be used as a learning aid for brainstorming, clarifying unfamiliar concepts, generating study questions, organizing ideas, outlining, proofreading, grammar, and document formatting. However, AI may not substitute for watching the lecture or produce the student’s final summary, takeaways, technical analysis, course connections, or application response. All submitted work must reflect the student’s own understanding and interpretation of the lecture. Any AI use must be acknowledged at the end of the submission by identifying the tool and briefly explaining how it was used.
 
-*Example acknowledgment:* I used ChatGPT to brainstorm possible connections between the lecture and course topics and to proofread my final response. The analysis and submitted writing are my own.
+**Example acknowledgment:** I used ChatGPT to brainstorm possible connections between the lecture and course topics and to proofread my final response. The analysis and submitted writing are my own.
