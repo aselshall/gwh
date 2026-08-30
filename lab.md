@@ -21,6 +21,7 @@ By bringing these analytical tools to the field, we advance understanding and de
 - [YSI ProSample P-12](https://www.ysi.com/prosample): A full-size, portable sampler with SDI-12 connectivity, designed for automated water sampling of up to (24) 1-liter bottles.
 - [YSI EXO2 Sonde](https://www.ysi.com/exo2): A multiparameter water quality sonde with six sensor ports. Accompanying sensors measure [conductivity/temperature](https://www.ysi.com/wipedct), [optical DO](https://www.ysi.com/product/id-599100-01/EXO-Optical-Dissolved-Oxygen-Smart-Sensor), [pH & ORP](https://www.ysi.com/product/id-599706/EXO-pH--ORP-Smart-Sensor), [Ammonium (NH4)](https://www.ysi.com/product/id-599710/EXO-Ammonium-Smart-Sensor), [Nitrate (NO3)](https://www.ysi.com/product/id-599709/EXO-Nitrate-Smart-Sensor), and [Rhodamine](https://www.ysi.com/exo/rhodamine) for dye tracer tests     
 - [12V Stainless Steel Monsoon XL pump](https://www.fondriest.com/proactive-stainlesssteel-monsoon-xl-pump.htm): Used for groundwater sampling and low-flow pumping, mounted on a metal reel with a 130' lead with Power Booster 2 XL LCD Controller (COMBO-XL-20)
+- [Eco-tech Lysimeter](https://www.ecotech.de/en/product/glass_suction_plate): Glass suction plate for soil water sampling 
 
 ## Near-real-time water budget measurements
 
@@ -31,8 +32,6 @@ By bringing these analytical tools to the field, we advance understanding and de
 - [Meter TEROS 12 Soil Moisture Sensors](https://metergroup.com/products/teros-12/):  Measures soil moisture at specific points
 - [Meter HYDROS 21](https://metergroup.com/products/hydros-21/): Measures water depth, electrical conductivity (EC), and temperature
 - [Meter ZL6 logger](https://metergroup.com/products/zl6/): A central data logger with six ports to collect and store data from the weather station and various sensors
-- [Meter SATURO](https://metergroup.com/products/saturo/): An automated in-situ permeameter for measuring saturated hydraulic conductivity of the soil
-- [Meter PARIO](https://metergroup.com/products/pario/): An automated soil particle size analysis
 
 ## Surface water and groundwater hydraulic measurements
 
@@ -41,6 +40,11 @@ By bringing these analytical tools to the field, we advance understanding and de
 - [YSI Global Water WL16 Vented Water Level & Temperature Logger](https://www.ysi.com/wl16): Measures water levels and temperature in wells and surface water bodies 
 - [Hach FH950 Portable Velocity System](https://www.hach.com/p-fh950-handheld-flow-meters/FH950.11040): Measures water flow velocity in streams and open channels
 - [Solinst Water Level Meter](https://www.amazon.com/SOLINST-101-WATER-LEVEL-METER/dp/B00XNMOVAM/): Used for manual groundwater level measurements in wells 
+
+## Subsurface characterization
+- [Meter SATURO](https://metergroup.com/products/saturo/): An automated in-situ permeameter for measuring saturated hydraulic conductivity of the soil
+- [Meter KSAT](https://metergroup.com/products/ksat/): An automated hydraulic conductivity measurement in lab
+- [Meter PARIO](https://metergroup.com/products/pario/): An automated soil particle size analysis
 
 ## Hydrogeophysical surveys
 
