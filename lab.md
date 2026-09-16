@@ -74,7 +74,7 @@ Beyond physical fieldwork, the lab host suite of software and high-performance c
 ## Research 
 
 ### Current projects
-- [EPA: Using Humic Acid for Nutrient Reduction and Red Tide Mitigation](https://www.epa.gov/gulfofamerica/overview-innovative-solutions-projects-funded-fy26)
+- [EPA: Using Humic Acid for Nutrient Reduction and Red Tide Mitigation](https://www.epa.gov/gulfofamerica/overview-innovative-solutions-projects-funded-fy26): [Link](https://mewcha1.github.io/HART)
 - [EPA: Nature-based Infrastructure for Enhancing Climate Resiliency of Groundwater Resources in South Florida: An Integrated Modeling Approach](https://mewcha1.github.io/NBI/intro.html)
 - [EPA: A Model-Experiment (ModEx) Framework to Advance Understanding of Fertilizer and Pesticide Reactive Transport in Rural Agricultural Areas](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
 - [NSF: C2H2 EAGER Collaborative Research: Explore a model-data framework to advance predictions of red tide and its impact on respiratory illnesses under changing temperature](https://atmos.eoas.fsu.edu/~mye/EarthSystemModeling.php)
