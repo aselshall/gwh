@@ -12,7 +12,7 @@ By bringing these analytical tools to the field, we advance understanding and de
 - Interaction between surface water-groundwater systems and coastal estuaries
 - [Sustainability of vital groundwater aquifers and climate resilience](https://mewcha1.github.io/NBI)
 - [Fate and transport of pesticides and nutrients from agricultural areas in south florida](https://atmos.eoas.fsu.edu/~mye/Pesticides.php)
-- Sustainable agricultural inputs to improve crop productivity and reduce environmental impacts
+- [Sustainable agricultural inputs to improve crop productivity and reduce environmental impacts](https://mewcha1.github.io/ha)
 
 ## Water quality measurements
 
