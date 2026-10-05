@@ -90,3 +90,5 @@ Beyond physical fieldwork, the lab host suite of software and high-performance c
 - [Fieldwork Handouts](https://github.com/aselshall/gwh/blob/main/files/Imokolee%20Oct%2031%202025%20Handouts.pdf)
 - [Backfield Report](https://github.com/aselshall/gwh/blob/main/files/Imokolee%20Oct%2031%202025%20Fieldtrip%20Report.pdf)
 
+## Outreach and extension
+
