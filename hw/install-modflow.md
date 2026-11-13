@@ -19,15 +19,15 @@ Alternatively, you can launch ModelMuse from appsanywhere. If ModelMuse (or any 
  
 ### 2. Download MODFLOW and related programs 
 
-1) MODFLOW-2005
-    - https://water.usgs.gov/water-resources/software/MODFLOW-2005/MF2005.1_12.zip
-2) ModelMate
-    - https://water.usgs.gov/water-resources/software/ModelMate/ModelMate_1_0_3.exe
-3) PEST (Check PEST website for new version of PEST if the link to current version is not working) 
-    - Current version (e.g., Version 18) of the PEST suite: https://s3.amazonaws.com/docs.pesthomepage.org/software/pest18.zip
-    - 64-bit versions of some PEST-suite programs: https://s3.amazonaws.com/docs.pesthomepage.org/software/i64execs.zip
-    - Groundwater Utilities: https://s3.amazonaws.com/docs.pesthomepage.org/software/gwutils.zip
-    - PLPROC: https://s3.amazonaws.com/docs.pesthomepage.org/software/plproc.zip
+1) MODFLOW-2005      
+    - https://water.usgs.gov/water-resources/software/MODFLOW-2005/MF2005.1_12.zip        
+2) ModelMate     
+    - https://water.usgs.gov/water-resources/software/ModelMate/ModelMate_1_0_3.exe    
+3) PEST (Check PEST website for new version of PEST if the link to current version is not working)      
+    - Current version (e.g., Version 18) of the PEST suite: https://s3.amazonaws.com/docs.pesthomepage.org/software/pest18.zip    
+    - 64-bit versions of some PEST-suite programs: https://s3.amazonaws.com/docs.pesthomepage.org/software/i64execs.zip     
+    - Groundwater Utilities: https://s3.amazonaws.com/docs.pesthomepage.org/software/gwutils.zip     
+    - PLPROC: https://s3.amazonaws.com/docs.pesthomepage.org/software/plproc.zip    
 
 ### 3. Install ModelMate
 Click on the executable file to install ModelMate at the selected location (e.g., C:/WRDAPP/)
